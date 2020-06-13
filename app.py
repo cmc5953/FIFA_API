@@ -19,7 +19,7 @@ db = SQLAlchemy(app)
 
 @app.route("/api")
 def skills_attributes():
-    results = db.session.query(soccer_data.name, soccer_data.Wage).all()
+    results = db.session.query(soccer_data.Name, soccer_data.Wage).all()
 
     name = [result[0] for result in results]
     salary = [result[1] for result in results]
