@@ -1,1 +1,1 @@
-web: gunicorn Heroku_starter.app:app
+web: gunicorn fifa-ratings-api.app:app
