@@ -6,9 +6,12 @@ from flask import (
     jsonify,
     request,
     redirect)
+
+from flask_cors import CORS
 from sqlalchemy import create_engine
 
 app = Flask(__name__)
+CORS(app)
 
 from flask_sqlalchemy import SQLAlchemy
 ENG = create_engine("sqlite:///soccer_data.db")
