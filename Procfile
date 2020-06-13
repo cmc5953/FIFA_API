@@ -1,1 +1,1 @@
-web: gunicorn fifa-ratings-api.app:app
+web: gunicorn app:app
