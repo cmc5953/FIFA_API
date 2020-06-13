@@ -1,0 +1,501 @@
+Name,Age,Height,Weight,Nationality,Value,Photo,Flag,Overall,Potential,Club,Position
+L. Messi,31,5'7,159lbs,Argentina,124,https://cdn.sofifa.org/players/4/19/158023.png,https://cdn.sofifa.org/flags/52.png,94,0,FC Barcelona,FWD
+Cristiano Ronaldo,33,6'2,183lbs,Portugal,87,https://cdn.sofifa.org/players/4/19/20801.png,https://cdn.sofifa.org/flags/38.png,94,0,Juventus,FWD
+Neymar Jr,26,5'9,150lbs,Brazil,133,https://cdn.sofifa.org/players/4/19/190871.png,https://cdn.sofifa.org/flags/54.png,92,0,Paris Saint-Germain,MID
+De Gea,27,6'4,168lbs,Spain,81,https://cdn.sofifa.org/players/4/19/193080.png,https://cdn.sofifa.org/flags/45.png,91,29,Manchester United,GK
+K. De Bruyne,27,5'11,154lbs,Belgium,115,https://cdn.sofifa.org/players/4/19/192985.png,https://cdn.sofifa.org/flags/7.png,91,0,Manchester City,MID
+E. Hazard,27,5'8,163lbs,Belgium,105,https://cdn.sofifa.org/players/4/19/183277.png,https://cdn.sofifa.org/flags/7.png,91,0,Chelsea,FWD
+L. Modrić,32,5'8,146lbs,Croatia,75,https://cdn.sofifa.org/players/4/19/177003.png,https://cdn.sofifa.org/flags/10.png,91,0,Real Madrid,MID
+L. Suárez,31,6'0,190lbs,Uruguay,90,https://cdn.sofifa.org/players/4/19/176580.png,https://cdn.sofifa.org/flags/60.png,91,0,FC Barcelona,FWD
+Sergio Ramos,32,6'0,181lbs,Spain,57,https://cdn.sofifa.org/players/4/19/155862.png,https://cdn.sofifa.org/flags/45.png,91,0,Real Madrid,DEF
+J. Oblak,25,6'2,192lbs,Slovenia,76,https://cdn.sofifa.org/players/4/19/200389.png,https://cdn.sofifa.org/flags/44.png,90,46,Atlético Madrid,GK
+R. Lewandowski,29,6'0,176lbs,Poland,87,https://cdn.sofifa.org/players/4/19/188545.png,https://cdn.sofifa.org/flags/37.png,90,0,FC Bayern München,FWD
+T. Kroos,28,6'0,168lbs,Germany,86,https://cdn.sofifa.org/players/4/19/182521.png,https://cdn.sofifa.org/flags/21.png,90,0,Real Madrid,MID
+D. Godín,32,6'2,172lbs,Uruguay,49,https://cdn.sofifa.org/players/4/19/182493.png,https://cdn.sofifa.org/flags/60.png,90,0,Atlético Madrid,DEF
+David Silva,32,5'8,148lbs,Spain,67,https://cdn.sofifa.org/players/4/19/168542.png,https://cdn.sofifa.org/flags/45.png,90,0,Manchester City,MID
+N. Kanté,27,5'6,159lbs,France,71,https://cdn.sofifa.org/players/4/19/215914.png,https://cdn.sofifa.org/flags/18.png,89,0,Chelsea,DEF
+P. Dybala,24,5'10,165lbs,Argentina,100,https://cdn.sofifa.org/players/4/19/211110.png,https://cdn.sofifa.org/flags/52.png,89,67,Juventus,FWD
+H. Kane,24,6'2,196lbs,England,94,https://cdn.sofifa.org/players/4/19/202126.png,https://cdn.sofifa.org/flags/14.png,89,29,Tottenham Hotspur,FWD
+A. Griezmann,27,5'9,161lbs,France,88,https://cdn.sofifa.org/players/4/19/194765.png,https://cdn.sofifa.org/flags/18.png,89,0,Atlético Madrid,MID
+M. ter Stegen,26,6'2,187lbs,Germany,65,https://cdn.sofifa.org/players/4/19/192448.png,https://cdn.sofifa.org/flags/21.png,89,46,FC Barcelona,GK
+T. Courtois,26,6'6,212lbs,Belgium,60,https://cdn.sofifa.org/players/4/19/192119.png,https://cdn.sofifa.org/flags/7.png,89,0,Real Madrid,GK
+Sergio Busquets,29,6'2,168lbs,Spain,58,https://cdn.sofifa.org/players/4/19/189511.png,https://cdn.sofifa.org/flags/45.png,89,0,FC Barcelona,MID
+E. Cavani,31,6'1,170lbs,Uruguay,67,https://cdn.sofifa.org/players/4/19/179813.png,https://cdn.sofifa.org/flags/60.png,89,0,Paris Saint-Germain,FWD
+M. Neuer,32,6'4,203lbs,Germany,42,https://cdn.sofifa.org/players/4/19/167495.png,https://cdn.sofifa.org/flags/21.png,89,0,FC Bayern München,GK
+S. Agüero,30,5'8,154lbs,Argentina,72,https://cdn.sofifa.org/players/4/19/153079.png,https://cdn.sofifa.org/flags/52.png,89,0,Manchester City,FWD
+G. Chiellini,33,6'2,187lbs,Italy,30,https://cdn.sofifa.org/players/4/19/138956.png,https://cdn.sofifa.org/flags/27.png,89,0,Juventus,DEF
+K. Mbappé,19,5'10,161lbs,France,91,https://cdn.sofifa.org/players/4/19/231747.png,https://cdn.sofifa.org/flags/18.png,88,81,Paris Saint-Germain,MID
+M. Salah,26,5'9,157lbs,Egypt,78,https://cdn.sofifa.org/players/4/19/209331.png,https://cdn.sofifa.org/flags/111.png,88,0,Liverpool,MID
+Casemiro,26,6'1,185lbs,Brazil,67,https://cdn.sofifa.org/players/4/19/200145.png,https://cdn.sofifa.org/flags/54.png,88,29,Real Madrid,MID
+J. Rodríguez,26,5'11,172lbs,Colombia,78,https://cdn.sofifa.org/players/4/19/198710.png,https://cdn.sofifa.org/flags/56.png,88,0,FC Bayern München,FWD
+L. Insigne,27,5'4,130lbs,Italy,70,https://cdn.sofifa.org/players/4/19/198219.png,https://cdn.sofifa.org/flags/27.png,88,0,Napoli,MID
+Isco,26,5'9,174lbs,Spain,83,https://cdn.sofifa.org/players/4/19/197781.png,https://cdn.sofifa.org/flags/45.png,88,46,Real Madrid,MID
+C. Eriksen,26,5'11,168lbs,Denmark,83,https://cdn.sofifa.org/players/4/19/190460.png,https://cdn.sofifa.org/flags/13.png,88,46,Tottenham Hotspur,MID
+Coutinho,26,5'8,150lbs,Brazil,78,https://cdn.sofifa.org/players/4/19/189242.png,https://cdn.sofifa.org/flags/54.png,88,0,FC Barcelona,MID
+P. Aubameyang,29,6'2,176lbs,Gabon,66,https://cdn.sofifa.org/players/4/19/188567.png,https://cdn.sofifa.org/flags/115.png,88,0,Arsenal,MID
+M. Hummels,29,6'3,203lbs,Germany,51,https://cdn.sofifa.org/players/4/19/178603.png,https://cdn.sofifa.org/flags/21.png,88,0,FC Bayern München,DEF
+Marcelo,30,5'9,176lbs,Brazil,48,https://cdn.sofifa.org/players/4/19/176676.png,https://cdn.sofifa.org/flags/54.png,88,0,Real Madrid,DEF
+G. Bale,28,6'1,181lbs,Wales,67,https://cdn.sofifa.org/players/4/19/173731.png,https://cdn.sofifa.org/flags/50.png,88,0,Real Madrid,FWD
+H. Lloris,31,6'2,181lbs,France,40,https://cdn.sofifa.org/players/4/19/167948.png,https://cdn.sofifa.org/flags/18.png,88,0,Tottenham Hotspur,GK
+G. Higuaín,30,6'1,196lbs,Argentina,64,https://cdn.sofifa.org/players/4/19/167664.png,https://cdn.sofifa.org/flags/52.png,88,0,Milan,FWD
+Thiago Silva,33,6'0,181lbs,Brazil,27,https://cdn.sofifa.org/players/4/19/164240.png,https://cdn.sofifa.org/flags/54.png,88,0,Paris Saint-Germain,DEF
+S. Handanovič,33,6'4,203lbs,Slovenia,33,https://cdn.sofifa.org/players/4/19/162835.png,https://cdn.sofifa.org/flags/44.png,88,0,Inter,GK
+G. Buffon,40,6'4,203lbs,Italy,4,https://cdn.sofifa.org/players/4/19/1179.png,https://cdn.sofifa.org/flags/27.png,88,0,Paris Saint-Germain,GK
+S. Umtiti,24,6'0,165lbs,France,64,https://cdn.sofifa.org/players/4/19/205600.png,https://cdn.sofifa.org/flags/18.png,87,67,FC Barcelona,DEF
+M. Icardi,25,5'11,165lbs,Argentina,72,https://cdn.sofifa.org/players/4/19/201399.png,https://cdn.sofifa.org/flags/52.png,87,46,Inter,FWD
+K. Koulibaly,27,6'2,196lbs,Senegal,57,https://cdn.sofifa.org/players/4/19/201024.png,https://cdn.sofifa.org/flags/136.png,87,46,Napoli,DEF
+P. Pogba,25,6'4,185lbs,France,72,https://cdn.sofifa.org/players/4/19/195864.png,https://cdn.sofifa.org/flags/18.png,87,58,Manchester United,MID
+K. Navas,31,6'1,176lbs,Costa Rica,34,https://cdn.sofifa.org/players/4/19/193041.png,https://cdn.sofifa.org/flags/72.png,87,0,Real Madrid,GK
+R. Lukaku,25,6'3,207lbs,Belgium,70,https://cdn.sofifa.org/players/4/19/192505.png,https://cdn.sofifa.org/flags/7.png,87,29,Manchester United,FWD
+C. Immobile,28,6'1,187lbs,Italy,58,https://cdn.sofifa.org/players/4/19/192387.png,https://cdn.sofifa.org/flags/27.png,87,0,Lazio,FWD
+Jordi Alba,29,5'7,150lbs,Spain,42,https://cdn.sofifa.org/players/4/19/189332.png,https://cdn.sofifa.org/flags/45.png,87,0,FC Barcelona,DEF
+D. Mertens,31,5'7,134lbs,Belgium,50,https://cdn.sofifa.org/players/4/19/175943.png,https://cdn.sofifa.org/flags/7.png,87,0,Napoli,FWD
+J. Vertonghen,31,6'2,190lbs,Belgium,38,https://cdn.sofifa.org/players/4/19/172871.png,https://cdn.sofifa.org/flags/7.png,87,0,Tottenham Hotspur,DEF
+M. Hamšík,30,6'0,174lbs,Slovakia,52,https://cdn.sofifa.org/players/4/19/171877.png,https://cdn.sofifa.org/flags/43.png,87,0,Napoli,MID
+I. Rakitić,30,6'0,172lbs,Croatia,52,https://cdn.sofifa.org/players/4/19/168651.png,https://cdn.sofifa.org/flags/10.png,87,0,FC Barcelona,MID
+Piqué,31,6'4,187lbs,Spain,38,https://cdn.sofifa.org/players/4/19/152729.png,https://cdn.sofifa.org/flags/45.png,87,0,FC Barcelona,DEF
+L. Sané,22,6'0,165lbs,Germany,68,https://cdn.sofifa.org/players/4/19/222492.png,https://cdn.sofifa.org/flags/21.png,86,75,Manchester City,MID
+Bernardo Silva,23,5'8,141lbs,Portugal,67,https://cdn.sofifa.org/players/4/19/218667.png,https://cdn.sofifa.org/flags/38.png,86,67,Manchester City,MID
+Ederson,24,6'2,190lbs,Brazil,46,https://cdn.sofifa.org/players/4/19/210257.png,https://cdn.sofifa.org/flags/54.png,86,58,Manchester City,GK
+S. Mané,26,5'9,152lbs,Senegal,58,https://cdn.sofifa.org/players/4/19/208722.png,https://cdn.sofifa.org/flags/136.png,86,0,Liverpool,MID
+V. van Dijk,26,6'4,203lbs,Netherlands,50,https://cdn.sofifa.org/players/4/19/203376.png,https://cdn.sofifa.org/flags/34.png,86,29,Liverpool,DEF
+R. Sterling,23,5'7,152lbs,England,63,https://cdn.sofifa.org/players/4/19/202652.png,https://cdn.sofifa.org/flags/14.png,86,46,Manchester City,MID
+Roberto Firmino,26,5'11,168lbs,Brazil,59,https://cdn.sofifa.org/players/4/19/201942.png,https://cdn.sofifa.org/flags/54.png,86,0,Liverpool,MID
+R. Varane,25,6'3,179lbs,France,56,https://cdn.sofifa.org/players/4/19/201535.png,https://cdn.sofifa.org/flags/18.png,86,67,Real Madrid,DEF
+M. Verratti,25,5'5,132lbs,Italy,62,https://cdn.sofifa.org/players/4/19/199556.png,https://cdn.sofifa.org/flags/27.png,86,46,Paris Saint-Germain,MID
+Alex Sandro,27,5'11,176lbs,Brazil,41,https://cdn.sofifa.org/players/4/19/191043.png,https://cdn.sofifa.org/flags/54.png,86,0,Juventus,DEF
+Douglas Costa,27,5'8,154lbs,Brazil,52,https://cdn.sofifa.org/players/4/19/190483.png,https://cdn.sofifa.org/flags/54.png,86,0,Juventus,MID
+T. Müller,28,6'1,165lbs,Germany,50,https://cdn.sofifa.org/players/4/19/189596.png,https://cdn.sofifa.org/flags/21.png,86,0,FC Bayern München,MID
+Thiago,27,5'9,154lbs,Spain,51,https://cdn.sofifa.org/players/4/19/189509.png,https://cdn.sofifa.org/flags/45.png,86,0,FC Bayern München,MID
+M. Reus,29,5'11,157lbs,Germany,49,https://cdn.sofifa.org/players/4/19/188350.png,https://cdn.sofifa.org/flags/21.png,86,0,Borussia Dortmund,MID
+Azpilicueta,28,5'10,168lbs,Spain,39,https://cdn.sofifa.org/players/4/19/184432.png,https://cdn.sofifa.org/flags/45.png,86,0,Chelsea,DEF
+L. Bonucci,31,6'3,187lbs,Italy,33,https://cdn.sofifa.org/players/4/19/184344.png,https://cdn.sofifa.org/flags/27.png,86,0,Juventus,DEF
+T. Alderweireld,29,6'1,179lbs,Belgium,44,https://cdn.sofifa.org/players/4/19/184087.png,https://cdn.sofifa.org/flags/7.png,86,0,Tottenham Hotspur,DEF
+M. Pjanić,28,5'10,159lbs,Bosnia Herzegovina,49,https://cdn.sofifa.org/players/4/19/180206.png,https://cdn.sofifa.org/flags/8.png,86,0,Juventus,MID
+M. Benatia,31,6'2,207lbs,Morocco,33,https://cdn.sofifa.org/players/4/19/177509.png,https://cdn.sofifa.org/flags/129.png,86,0,Juventus,DEF
+M. Özil,29,5'11,168lbs,Germany,49,https://cdn.sofifa.org/players/4/19/176635.png,https://cdn.sofifa.org/flags/21.png,86,0,Arsenal,MID
+Fernandinho,33,5'10,148lbs,Brazil,20,https://cdn.sofifa.org/players/4/19/135507.png,https://cdn.sofifa.org/flags/54.png,86,0,Manchester City,MID
+Iniesta,34,5'7,150lbs,Spain,24,https://cdn.sofifa.org/players/4/19/41.png,https://cdn.sofifa.org/flags/45.png,86,0,Vissel Kobe,FWD
+M. Škriniar,23,6'2,176lbs,Slovakia,52,https://cdn.sofifa.org/players/4/19/232363.png,https://cdn.sofifa.org/flags/43.png,85,81,Inter,DEF
+S. Milinković-Savić,23,6'3,168lbs,Serbia,57,https://cdn.sofifa.org/players/4/19/223848.png,https://cdn.sofifa.org/flags/51.png,85,67,Lazio,MID
+Marco Asensio,22,6'0,168lbs,Spain,61,https://cdn.sofifa.org/players/4/19/220834.png,https://cdn.sofifa.org/flags/45.png,85,81,Real Madrid,MID
+N. Fekir,24,5'8,165lbs,France,56,https://cdn.sofifa.org/players/4/19/216594.png,https://cdn.sofifa.org/flags/18.png,85,58,Olympique Lyonnais,MID
+Alisson,25,6'3,201lbs,Brazil,41,https://cdn.sofifa.org/players/4/19/212831.png,https://cdn.sofifa.org/flags/54.png,85,67,Liverpool,GK
+J. Kimmich,23,5'9,154lbs,Germany,45,https://cdn.sofifa.org/players/4/19/212622.png,https://cdn.sofifa.org/flags/21.png,85,46,FC Bayern München,MID
+Saúl,23,6'0,170lbs,Spain,57,https://cdn.sofifa.org/players/4/19/208421.png,https://cdn.sofifa.org/flags/45.png,85,67,Atlético Madrid,MID
+R. Mahrez,27,5'10,148lbs,Algeria,45,https://cdn.sofifa.org/players/4/19/204485.png,https://cdn.sofifa.org/flags/97.png,85,0,Manchester City,MID
+D. Alaba,26,5'11,168lbs,Austria,42,https://cdn.sofifa.org/players/4/19/197445.png,https://cdn.sofifa.org/flags/4.png,85,29,FC Bayern München,DEF
+Koke,26,5'9,163lbs,Spain,50,https://cdn.sofifa.org/players/4/19/193747.png,https://cdn.sofifa.org/flags/45.png,85,0,Atlético Madrid,MID
+A. Lacazette,27,5'9,161lbs,France,50,https://cdn.sofifa.org/players/4/19/193301.png,https://cdn.sofifa.org/flags/18.png,85,0,Arsenal,FWD
+K. Manolas,27,6'2,183lbs,Greece,42,https://cdn.sofifa.org/players/4/19/192774.png,https://cdn.sofifa.org/flags/22.png,85,29,Roma,DEF
+N. Otamendi,30,6'0,179lbs,Argentina,32,https://cdn.sofifa.org/players/4/19/192366.png,https://cdn.sofifa.org/flags/52.png,85,0,Manchester City,DEF
+Parejo,29,6'0,163lbs,Spain,41,https://cdn.sofifa.org/players/4/19/189513.png,https://cdn.sofifa.org/flags/45.png,85,0,Valencia FWD,MID
+Paulinho,29,6'0,157lbs,Brazil,41,https://cdn.sofifa.org/players/4/19/187961.png,https://cdn.sofifa.org/flags/54.png,85,0,Guangzhou Evergrande Taobao FC,DEF
+W. Szczęsny,28,6'5,198lbs,Poland,36,https://cdn.sofifa.org/players/4/19/186153.png,https://cdn.sofifa.org/flags/37.png,85,29,Juventus,GK
+A. Sánchez,29,5'7,163lbs,Chile,42,https://cdn.sofifa.org/players/4/19/184941.png,https://cdn.sofifa.org/flags/55.png,85,0,Manchester United,MID
+Y. Brahimi,28,5'9,146lbs,Algeria,44,https://cdn.sofifa.org/players/4/19/184267.png,https://cdn.sofifa.org/flags/97.png,85,0,FC Porto,MID
+J. Boateng,29,6'4,198lbs,Germany,33,https://cdn.sofifa.org/players/4/19/183907.png,https://cdn.sofifa.org/flags/21.png,85,0,FC Bayern München,DEF
+A. Vidal,31,5'11,165lbs,Chile,29,https://cdn.sofifa.org/players/4/19/181872.png,https://cdn.sofifa.org/flags/55.png,85,0,FC Barcelona,MID
+I. Perišić,29,6'1,176lbs,Croatia,42,https://cdn.sofifa.org/players/4/19/181458.png,https://cdn.sofifa.org/flags/10.png,85,0,Inter,MID
+E. Džeko,32,6'4,185lbs,Bosnia Herzegovina,34,https://cdn.sofifa.org/players/4/19/180930.png,https://cdn.sofifa.org/flags/8.png,85,0,Roma,FWD
+S. Khedira,31,6'2,198lbs,Germany,37,https://cdn.sofifa.org/players/4/19/179846.png,https://cdn.sofifa.org/flags/21.png,85,0,Juventus,MID
+Diego Costa,29,6'2,190lbs,Spain,43,https://cdn.sofifa.org/players/4/19/179844.png,https://cdn.sofifa.org/flags/45.png,85,0,Atlético Madrid,FWD
+R. Nainggolan,30,5'9,170lbs,Belgium,40,https://cdn.sofifa.org/players/4/19/178518.png,https://cdn.sofifa.org/flags/7.png,85,0,Inter,MID
+Naldo,35,6'6,201lbs,Brazil,10,https://cdn.sofifa.org/players/4/19/171919.png,https://cdn.sofifa.org/flags/54.png,85,0,FC Schalke 04,DEF
+B. Matuidi,31,5'11,165lbs,France,29,https://cdn.sofifa.org/players/4/19/170890.png,https://cdn.sofifa.org/flags/18.png,85,0,Juventus,MID
+Miranda,33,6'1,172lbs,Brazil,17,https://cdn.sofifa.org/players/4/19/168609.png,https://cdn.sofifa.org/flags/54.png,85,0,Inter,DEF
+K. Benzema,30,6'1,179lbs,France,41,https://cdn.sofifa.org/players/4/19/165153.png,https://cdn.sofifa.org/flags/18.png,85,0,Real Madrid,FWD
+Filipe Luís,32,6'0,163lbs,Brazil,24,https://cdn.sofifa.org/players/4/19/164169.png,https://cdn.sofifa.org/flags/54.png,85,0,Atlético Madrid,DEF
+V. Kompany,32,6'3,187lbs,Belgium,24,https://cdn.sofifa.org/players/4/19/139720.png,https://cdn.sofifa.org/flags/7.png,85,0,Manchester City,DEF
+Pepe,35,6'2,179lbs,Portugal,10,https://cdn.sofifa.org/players/4/19/120533.png,https://cdn.sofifa.org/flags/38.png,85,0,Beşiktaş JK,DEF
+Z. Ibrahimović,36,6'5,209lbs,Sweden,15,https://cdn.sofifa.org/players/4/19/41236.png,https://cdn.sofifa.org/flags/46.png,85,0,LA Galaxy,FWD
+D. Sánchez,22,6'2,174lbs,Colombia,38,https://cdn.sofifa.org/players/4/19/220793.png,https://cdn.sofifa.org/flags/56.png,84,58,Tottenham Hotspur,DEF
+J. Giménez,23,6'1,176lbs,Uruguay,38,https://cdn.sofifa.org/players/4/19/216460.png,https://cdn.sofifa.org/flags/60.png,84,58,Atlético Madrid,DEF
+Alex Telles,25,5'11,157lbs,Brazil,36,https://cdn.sofifa.org/players/4/19/212462.png,https://cdn.sofifa.org/flags/54.png,84,46,FC Porto,DEF
+A. Laporte,24,6'2,187lbs,France,38,https://cdn.sofifa.org/players/4/19/212218.png,https://cdn.sofifa.org/flags/18.png,84,58,Manchester City,DEF
+Bruno Fernandes,23,5'10,152lbs,Portugal,45,https://cdn.sofifa.org/players/4/19/212198.png,https://cdn.sofifa.org/flags/38.png,84,58,Sporting CP,MID
+N. Süle,22,6'5,214lbs,Germany,41,https://cdn.sofifa.org/players/4/19/212190.png,https://cdn.sofifa.org/flags/21.png,84,75,FC Bayern München,DEF
+A. Martial,22,6'0,168lbs,France,48,https://cdn.sofifa.org/players/4/19/211300.png,https://cdn.sofifa.org/flags/18.png,84,75,Manchester United,MID
+D. Alli,22,6'2,176lbs,England,48,https://cdn.sofifa.org/players/4/19/211117.png,https://cdn.sofifa.org/flags/14.png,84,75,Tottenham Hotspur,MID
+Fabinho,24,6'2,172lbs,Brazil,38,https://cdn.sofifa.org/players/4/19/209499.png,https://cdn.sofifa.org/flags/54.png,84,58,Liverpool,MID
+Marquinhos,24,6'0,165lbs,Brazil,40,https://cdn.sofifa.org/players/4/19/207865.png,https://cdn.sofifa.org/flags/54.png,84,67,Paris Saint-Germain,DEF
+William Carvalho,26,6'2,183lbs,Portugal,35,https://cdn.sofifa.org/players/4/19/207566.png,https://cdn.sofifa.org/flags/38.png,84,29,Real Betis,MID
+Jorginho,26,5'11,148lbs,Italy,42,https://cdn.sofifa.org/players/4/19/205498.png,https://cdn.sofifa.org/flags/27.png,84,46,Chelsea,MID
+F. Thauvin,25,5'10,154lbs,France,44,https://cdn.sofifa.org/players/4/19/204970.png,https://cdn.sofifa.org/flags/18.png,84,46,Olympique de Marseille,MID
+Carvajal,26,5'8,161lbs,Spain,35,https://cdn.sofifa.org/players/4/19/204963.png,https://cdn.sofifa.org/flags/45.png,84,46,Real Madrid,DEF
+M. Depay,24,5'9,172lbs,Netherlands,47,https://cdn.sofifa.org/players/4/19/202556.png,https://cdn.sofifa.org/flags/34.png,84,67,Olympique Lyonnais,FWD
+H. Son,25,6'0,143lbs,Korea Republic,41,https://cdn.sofifa.org/players/4/19/200104.png,https://cdn.sofifa.org/flags/167.png,84,0,Tottenham Hotspur,MID
+A. Lopes,27,6'0,179lbs,Portugal,28,https://cdn.sofifa.org/players/4/19/199482.png,https://cdn.sofifa.org/flags/38.png,84,29,Olympique Lyonnais,GK
+S. de Vrij,26,6'2,172lbs,Netherlands,35,https://cdn.sofifa.org/players/4/19/198176.png,https://cdn.sofifa.org/flags/34.png,84,29,Inter,DEF
+M. Perin,25,6'2,170lbs,Italy,33,https://cdn.sofifa.org/players/4/19/198009.png,https://cdn.sofifa.org/flags/27.png,84,67,Juventus,GK
+J. Cuadrado,30,5'10,159lbs,Colombia,33,https://cdn.sofifa.org/players/4/19/193082.png,https://cdn.sofifa.org/flags/56.png,84,0,Juventus,MID
+Iago Aspas,30,5'9,148lbs,Spain,33,https://cdn.sofifa.org/players/4/19/192629.png,https://cdn.sofifa.org/flags/45.png,84,0,RC Celta,FWD
+B. Leno,26,6'3,183lbs,Germany,30,https://cdn.sofifa.org/players/4/19/192563.png,https://cdn.sofifa.org/flags/21.png,84,46,Arsenal,GK
+N. Matić,29,6'4,187lbs,Serbia,27,https://cdn.sofifa.org/players/4/19/191202.png,https://cdn.sofifa.org/flags/51.png,84,0,Manchester United,MID
+L. Hrádecký,28,6'4,187lbs,Finland,24,https://cdn.sofifa.org/players/4/19/190941.png,https://cdn.sofifa.org/flags/17.png,84,0,Bayer 04 Leverkusen,GK
+Illarramendi,28,5'10,165lbs,Spain,35,https://cdn.sofifa.org/players/4/19/190584.png,https://cdn.sofifa.org/flags/45.png,84,0,Real Sociedad,MID
+K. Walker,28,6'0,154lbs,England,27,https://cdn.sofifa.org/players/4/19/188377.png,https://cdn.sofifa.org/flags/14.png,84,0,Manchester City,DEF
+I. Gündoğan,27,5'11,176lbs,Germany,36,https://cdn.sofifa.org/players/4/19/186942.png,https://cdn.sofifa.org/flags/21.png,84,0,Manchester City,MID
+José Callejón,31,5'10,161lbs,Spain,31,https://cdn.sofifa.org/players/4/19/185020.png,https://cdn.sofifa.org/flags/45.png,84,0,Napoli,MID
+A. Di María,30,5'11,152lbs,Argentina,33,https://cdn.sofifa.org/players/4/19/183898.png,https://cdn.sofifa.org/flags/52.png,84,0,Paris Saint-Germain,MID
+M. Mandžukić,32,6'3,187lbs,Croatia,28,https://cdn.sofifa.org/players/4/19/181783.png,https://cdn.sofifa.org/flags/10.png,84,0,Juventus,FWD
+Willian,29,5'9,172lbs,Brazil,34,https://cdn.sofifa.org/players/4/19/180403.png,https://cdn.sofifa.org/flags/54.png,84,0,Chelsea,MID
+Sergio Asenjo,29,6'2,192lbs,Spain,27,https://cdn.sofifa.org/players/4/19/178750.png,https://cdn.sofifa.org/flags/45.png,84,0,Villarreal FWD,GK
+E. Banega,30,5'9,157lbs,Argentina,32,https://cdn.sofifa.org/players/4/19/178562.png,https://cdn.sofifa.org/flags/52.png,84,0,Sevilla FC,MID
+A. Witsel,29,6'2,179lbs,Belgium,27,https://cdn.sofifa.org/players/4/19/177413.png,https://cdn.sofifa.org/flags/7.png,84,0,Borussia Dortmund,MID
+D. Payet,31,5'9,170lbs,France,31,https://cdn.sofifa.org/players/4/19/177388.png,https://cdn.sofifa.org/flags/18.png,84,0,Olympique de Marseille,MID
+Jonas,34,5'11,163lbs,Brazil,18,https://cdn.sofifa.org/players/4/19/176769.png,https://cdn.sofifa.org/flags/54.png,84,0,SL Benfica,FWD
+Sokratis,30,6'1,187lbs,Greece,25,https://cdn.sofifa.org/players/4/19/172879.png,https://cdn.sofifa.org/flags/22.png,84,0,Arsenal,DEF
+S. Ruffier,31,6'2,205lbs,France,21,https://cdn.sofifa.org/players/4/19/167628.png,https://cdn.sofifa.org/flags/18.png,84,0,AS Saint-Étienne,GK
+Falcao,32,5'10,159lbs,Colombia,28,https://cdn.sofifa.org/players/4/19/167397.png,https://cdn.sofifa.org/flags/56.png,84,0,AS Monaco,FWD
+K. Schmeichel,31,6'2,196lbs,Denmark,21,https://cdn.sofifa.org/players/4/19/163587.png,https://cdn.sofifa.org/flags/13.png,84,0,Leicester City,GK
+Raúl Albiol,32,6'3,181lbs,Spain,20,https://cdn.sofifa.org/players/4/19/157481.png,https://cdn.sofifa.org/flags/45.png,84,0,Napoli,DEF
+A. Gómez,30,5'5,150lbs,Argentina,33,https://cdn.sofifa.org/players/4/19/143076.png,https://cdn.sofifa.org/flags/52.png,84,0,Atalanta,FWD
+A. Barzagli,37,6'2,192lbs,Italy,4,https://cdn.sofifa.org/players/4/19/137186.png,https://cdn.sofifa.org/flags/27.png,84,0,Juventus,DEF
+Quaresma,34,5'9,148lbs,Portugal,17,https://cdn.sofifa.org/players/4/19/20775.png,https://cdn.sofifa.org/flags/38.png,84,0,Beşiktaş JK,MID
+A. Robben,34,5'11,176lbs,Netherlands,17,https://cdn.sofifa.org/players/4/19/9014.png,https://cdn.sofifa.org/flags/34.png,84,0,FC Bayern München,MID
+O. Dembélé,21,5'10,148lbs,France,45,https://cdn.sofifa.org/players/4/19/231443.png,https://cdn.sofifa.org/flags/18.png,83,92,FC Barcelona,MID
+Gabriel Jesus,21,5'9,161lbs,Brazil,46,https://cdn.sofifa.org/players/4/19/230666.png,https://cdn.sofifa.org/flags/54.png,83,92,Manchester City,FWD
+Ronaldo Cabrais,26,5'10,165lbs,Brazil,31,https://cdn.sofifa.org/players/4/19/230481.png,https://cdn.sofifa.org/flags/54.png,83,0,Grêmio,MID
+Josué Chiamulera,26,6'1,176lbs,Brazil,25,https://cdn.sofifa.org/players/4/19/230375.png,https://cdn.sofifa.org/flags/54.png,83,0,Grêmio,DEF
+Louri Beretta,26,6'2,183lbs,Brazil,32,https://cdn.sofifa.org/players/4/19/230294.png,https://cdn.sofifa.org/flags/54.png,83,0,Atlético Mineiro,FWD
+P. Kimpembe,22,6'2,176lbs,France,34,https://cdn.sofifa.org/players/4/19/225850.png,https://cdn.sofifa.org/flags/18.png,83,75,Paris Saint-Germain,DEF
+N. Keïta,23,5'8,141lbs,Guinea,38,https://cdn.sofifa.org/players/4/19/220971.png,https://cdn.sofifa.org/flags/118.png,83,67,Liverpool,MID
+C. Tolisso,23,5'11,179lbs,France,38,https://cdn.sofifa.org/players/4/19/219683.png,https://cdn.sofifa.org/flags/18.png,83,67,FC Bayern München,MID
+T. Lemar,22,5'7,137lbs,France,40,https://cdn.sofifa.org/players/4/19/213565.png,https://cdn.sofifa.org/flags/18.png,83,75,Atlético Madrid,MID
+K. Coman,22,5'10,157lbs,France,38,https://cdn.sofifa.org/players/4/19/213345.png,https://cdn.sofifa.org/flags/18.png,83,58,FC Bayern München,MID
+J. Tah,22,6'5,214lbs,Germany,33,https://cdn.sofifa.org/players/4/19/213331.png,https://cdn.sofifa.org/flags/21.png,83,67,Bayer 04 Leverkusen,DEF
+Anderson Talisca,24,6'3,176lbs,Brazil,41,https://cdn.sofifa.org/players/4/19/212523.png,https://cdn.sofifa.org/flags/54.png,83,81,Guangzhou Evergrande Taobao FC,MID
+T. Werner,22,5'11,165lbs,Germany,38,https://cdn.sofifa.org/players/4/19/212188.png,https://cdn.sofifa.org/flags/21.png,83,58,RB Leipzig,MID
+A. Rabiot,23,6'4,176lbs,France,37,https://cdn.sofifa.org/players/4/19/210008.png,https://cdn.sofifa.org/flags/18.png,83,58,Paris Saint-Germain,MID
+L. Goretzka,23,6'2,174lbs,Germany,38,https://cdn.sofifa.org/players/4/19/209658.png,https://cdn.sofifa.org/flags/21.png,83,67,FC Bayern München,MID
+Q. Promes,26,5'9,159lbs,Netherlands,34,https://cdn.sofifa.org/players/4/19/208808.png,https://cdn.sofifa.org/flags/34.png,83,0,Sevilla FC,MID
+H. Ziyech,25,5'11,143lbs,Morocco,36,https://cdn.sofifa.org/players/4/19/208670.png,https://cdn.sofifa.org/flags/129.png,83,46,Ajax,MID
+Lucas Vázquez,27,5'8,154lbs,Spain,30,https://cdn.sofifa.org/players/4/19/208618.png,https://cdn.sofifa.org/flags/45.png,83,0,Real Madrid,MID
+Y. Carrasco,24,5'11,161lbs,Belgium,37,https://cdn.sofifa.org/players/4/19/208418.png,https://cdn.sofifa.org/flags/7.png,83,46,Dalian YiFang FC,MID
+Gerard Moreno,26,5'11,170lbs,Spain,36,https://cdn.sofifa.org/players/4/19/208093.png,https://cdn.sofifa.org/flags/45.png,83,29,Villarreal FWD,FWD
+Felipe,29,6'3,190lbs,Brazil,22,https://cdn.sofifa.org/players/4/19/207863.png,https://cdn.sofifa.org/flags/54.png,83,0,FC Porto,DEF
+M. Kovačić,24,5'9,172lbs,Croatia,39,https://cdn.sofifa.org/players/4/19/207410.png,https://cdn.sofifa.org/flags/10.png,83,75,Chelsea,MID
+Kepa,23,6'1,187lbs,Spain,32,https://cdn.sofifa.org/players/4/19/206585.png,https://cdn.sofifa.org/flags/45.png,83,87,Chelsea,GK
+Manu Trigueros,26,5'10,165lbs,Spain,33,https://cdn.sofifa.org/players/4/19/206545.png,https://cdn.sofifa.org/flags/45.png,83,0,Villarreal FWD,MID
+S. Gnabry,22,5'9,165lbs,Germany,38,https://cdn.sofifa.org/players/4/19/206113.png,https://cdn.sofifa.org/flags/21.png,83,67,FC Bayern München,FWD
+J. Pickford,24,6'1,170lbs,England,28,https://cdn.sofifa.org/players/4/19/204935.png,https://cdn.sofifa.org/flags/14.png,83,67,Everton,GK
+S. Savić,27,6'2,174lbs,Montenegro,29,https://cdn.sofifa.org/players/4/19/204639.png,https://cdn.sofifa.org/flags/15.png,83,46,Atlético Madrid,DEF
+J. Stones,24,6'2,154lbs,England,32,https://cdn.sofifa.org/players/4/19/203574.png,https://cdn.sofifa.org/flags/14.png,83,58,Manchester City,DEF
+Suso,24,5'9,154lbs,Spain,37,https://cdn.sofifa.org/players/4/19/202651.png,https://cdn.sofifa.org/flags/45.png,83,46,Milan,MID
+J. Draxler,24,6'2,170lbs,Germany,36,https://cdn.sofifa.org/players/4/19/202166.png,https://cdn.sofifa.org/flags/21.png,83,46,Paris Saint-Germain,MID
+Felipe Anderson,25,5'9,154lbs,Brazil,35,https://cdn.sofifa.org/players/4/19/201995.png,https://cdn.sofifa.org/flags/54.png,83,29,West Ham United,MID
+Lucas Moura,25,5'9,154lbs,Brazil,35,https://cdn.sofifa.org/players/4/19/200949.png,https://cdn.sofifa.org/flags/54.png,83,0,Tottenham Hotspur,MID
+Danilo Pereira,26,6'2,183lbs,Portugal,30,https://cdn.sofifa.org/players/4/19/200888.png,https://cdn.sofifa.org/flags/38.png,83,46,FC Porto,MID
+Nacho Fernández,28,5'11,168lbs,Spain,27,https://cdn.sofifa.org/players/4/19/200724.png,https://cdn.sofifa.org/flags/45.png,83,29,Real Madrid,DEF
+T. Horn,25,6'4,198lbs,Germany,27,https://cdn.sofifa.org/players/4/19/200316.png,https://cdn.sofifa.org/flags/21.png,83,58,1. FC Köln,GK
+Allan,27,5'9,163lbs,Brazil,29,https://cdn.sofifa.org/players/4/19/199914.png,https://cdn.sofifa.org/flags/54.png,83,0,Napoli,MID
+F. Acerbi,30,6'4,194lbs,Italy,21,https://cdn.sofifa.org/players/4/19/199845.png,https://cdn.sofifa.org/flags/27.png,83,0,Lazio,DEF
+Sergi Roberto,26,5'10,150lbs,Spain,29,https://cdn.sofifa.org/players/4/19/199564.png,https://cdn.sofifa.org/flags/45.png,83,46,FC Barcelona,DEF
+Rodrigo,27,6'0,170lbs,Spain,34,https://cdn.sofifa.org/players/4/19/198329.png,https://cdn.sofifa.org/flags/45.png,83,0,Valencia FWD,FWD
+Pizzi,28,5'10,159lbs,Portugal,28,https://cdn.sofifa.org/players/4/19/197965.png,https://cdn.sofifa.org/flags/38.png,83,0,SL Benfica,MID
+K. Kampl,27,5'10,148lbs,Slovenia,29,https://cdn.sofifa.org/players/4/19/195365.png,https://cdn.sofifa.org/flags/44.png,83,0,RB Leipzig,MID
+Neto,28,6'3,185lbs,Brazil,23,https://cdn.sofifa.org/players/4/19/194404.png,https://cdn.sofifa.org/flags/54.png,83,0,Valencia FWD,GK
+O. Baumann,28,6'2,181lbs,Germany,23,https://cdn.sofifa.org/players/4/19/193698.png,https://cdn.sofifa.org/flags/21.png,83,0,TSG 1899 Hoffenheim,GK
+I. Gueye,28,5'9,146lbs,Senegal,23,https://cdn.sofifa.org/players/4/19/193474.png,https://cdn.sofifa.org/flags/136.png,83,0,Everton,MID
+H. Mkhitaryan,29,5'10,165lbs,Armenia,28,https://cdn.sofifa.org/players/4/19/192883.png,https://cdn.sofifa.org/flags/3.png,83,0,Arsenal,MID
+Marcos Alonso,27,6'2,192lbs,Spain,27,https://cdn.sofifa.org/players/4/19/192638.png,https://cdn.sofifa.org/flags/45.png,83,0,Chelsea,DEF
+D. Subašić,33,6'3,185lbs,Croatia,14,https://cdn.sofifa.org/players/4/19/192593.png,https://cdn.sofifa.org/flags/10.png,83,0,AS Monaco,GK
+K. Glik,30,6'3,176lbs,Poland,21,https://cdn.sofifa.org/players/4/19/190547.png,https://cdn.sofifa.org/flags/37.png,83,0,AS Monaco,DEF
+K. Strootman,28,6'1,176lbs,Netherlands,23,https://cdn.sofifa.org/players/4/19/189712.png,https://cdn.sofifa.org/flags/34.png,83,0,Olympique de Marseille,MID
+B. Dost,29,6'5,196lbs,Netherlands,29,https://cdn.sofifa.org/players/4/19/189068.png,https://cdn.sofifa.org/flags/34.png,83,0,Sporting CP,FWD
+Oscar,26,5'10,146lbs,Brazil,34,https://cdn.sofifa.org/players/4/19/188152.png,https://cdn.sofifa.org/flags/54.png,83,0,Shanghai SIPG FC,MID
+M. Balotelli,27,6'2,194lbs,Italy,31,https://cdn.sofifa.org/players/4/19/186627.png,https://cdn.sofifa.org/flags/27.png,83,0,OGC Nice,FWD
+Luiz Gustavo,30,6'2,172lbs,Brazil,21,https://cdn.sofifa.org/players/4/19/185221.png,https://cdn.sofifa.org/flags/54.png,83,0,Olympique de Marseille,DEF
+Giuliano,28,5'8,150lbs,Brazil,29,https://cdn.sofifa.org/players/4/19/184942.png,https://cdn.sofifa.org/flags/54.png,83,0,Al Nassr,MID
+David Luiz,31,6'2,190lbs,Brazil,19,https://cdn.sofifa.org/players/4/19/179944.png,https://cdn.sofifa.org/flags/54.png,83,0,Chelsea,DEF
+R. Fährmann,29,6'6,216lbs,Germany,22,https://cdn.sofifa.org/players/4/19/179783.png,https://cdn.sofifa.org/flags/21.png,83,0,FC Schalke 04,GK
+Juan Mata,30,5'7,139lbs,Spain,27,https://cdn.sofifa.org/players/4/19/178088.png,https://cdn.sofifa.org/flags/45.png,83,0,Manchester United,MID
+Adán,31,6'3,203lbs,Spain,17,https://cdn.sofifa.org/players/4/19/178086.png,https://cdn.sofifa.org/flags/45.png,83,0,Atlético Madrid,GK
+Rui Patrício,30,6'3,185lbs,Portugal,18,https://cdn.sofifa.org/players/4/19/178005.png,https://cdn.sofifa.org/flags/38.png,83,0,Wolverhampton Wanderers,GK
+Y. Sommer,29,6'0,174lbs,Switzerland,22,https://cdn.sofifa.org/players/4/19/177683.png,https://cdn.sofifa.org/flags/47.png,83,0,Borussia Mönchengladbach,GK
+Javi Martínez,29,6'4,190lbs,Spain,22,https://cdn.sofifa.org/players/4/19/177610.png,https://cdn.sofifa.org/flags/45.png,83,0,FC Bayern München,MID
+L. Bender,29,6'1,179lbs,Germany,22,https://cdn.sofifa.org/players/4/19/177457.png,https://cdn.sofifa.org/flags/21.png,83,0,Bayer 04 Leverkusen,DEF
+Lucas Leiva,31,5'10,172lbs,Brazil,19,https://cdn.sofifa.org/players/4/19/176266.png,https://cdn.sofifa.org/flags/54.png,83,0,Lazio,DEF
+S. Mandanda,33,6'1,181lbs,France,14,https://cdn.sofifa.org/players/4/19/163705.png,https://cdn.sofifa.org/flags/18.png,83,0,Olympique de Marseille,GK
+Cesc Fàbregas,31,5'10,170lbs,Spain,24,https://cdn.sofifa.org/players/4/19/162895.png,https://cdn.sofifa.org/flags/45.png,83,0,Chelsea,MID
+M. Dembélé,30,6'1,181lbs,Belgium,27,https://cdn.sofifa.org/players/4/19/162240.png,https://cdn.sofifa.org/flags/7.png,83,0,Tottenham Hotspur,MID
+F. Ribéry,35,5'7,159lbs,France,12,https://cdn.sofifa.org/players/4/19/156616.png,https://cdn.sofifa.org/flags/18.png,83,0,FC Bayern München,MID
+R. Jarstein,33,6'3,181lbs,Norway,14,https://cdn.sofifa.org/players/4/19/104389.png,https://cdn.sofifa.org/flags/36.png,83,0,Hertha BSC,GK
+D. De Rossi,34,6'0,183lbs,Italy,9,https://cdn.sofifa.org/players/4/19/53302.png,https://cdn.sofifa.org/flags/27.png,83,0,Roma,MID
+Pepe Reina,35,6'2,203lbs,Spain,6,https://cdn.sofifa.org/players/4/19/24630.png,https://cdn.sofifa.org/flags/45.png,83,0,Milan,GK
+J. Pavlenka,26,6'5,179lbs,Czech Republic,22,https://cdn.sofifa.org/players/4/19/236583.png,https://cdn.sofifa.org/flags/12.png,82,46,SV Werder Bremen,GK
+M. de Ligt,18,6'2,196lbs,Netherlands,30,https://cdn.sofifa.org/players/4/19/235243.png,https://cdn.sofifa.org/flags/34.png,82,92,Ajax,DEF
+Rodri,22,6'3,181lbs,Spain,32,https://cdn.sofifa.org/players/4/19/231866.png,https://cdn.sofifa.org/flags/45.png,82,67,Atlético Madrid,MID
+Arthur,21,5'7,161lbs,Brazil,36,https://cdn.sofifa.org/players/4/19/230658.png,https://cdn.sofifa.org/flags/54.png,82,87,FC Barcelona,MID
+G. Donnarumma,19,6'5,198lbs,Italy,32,https://cdn.sofifa.org/players/4/19/230621.png,https://cdn.sofifa.org/flags/27.png,82,100,Milan,GK
+Rosberto Dourado,30,5'9,154lbs,Brazil,18,https://cdn.sofifa.org/players/4/19/230258.png,https://cdn.sofifa.org/flags/54.png,82,0,Atlético Mineiro,MID
+Juiano Mestres,34,5'11,181lbs,Brazil,7,https://cdn.sofifa.org/players/4/19/230225.png,https://cdn.sofifa.org/flags/54.png,82,0,Cruzeiro,DEF
+Raphaelito Anjos,30,6'3,187lbs,Brazil,15,https://cdn.sofifa.org/players/4/19/230168.png,https://cdn.sofifa.org/flags/54.png,82,0,Grêmio,GK
+Gelson Martins,23,5'8,159lbs,Portugal,33,https://cdn.sofifa.org/players/4/19/227055.png,https://cdn.sofifa.org/flags/38.png,82,67,Atlético Madrid,MID
+Gonçalo Guedes,21,5'10,150lbs,Portugal,32,https://cdn.sofifa.org/players/4/19/224411.png,https://cdn.sofifa.org/flags/38.png,82,58,Valencia FWD,MID
+L. Torreira,22,5'6,141lbs,Uruguay,28,https://cdn.sofifa.org/players/4/19/223959.png,https://cdn.sofifa.org/flags/60.png,82,67,Arsenal,MID
+Malcom,21,5'8,163lbs,Brazil,35,https://cdn.sofifa.org/players/4/19/222737.png,https://cdn.sofifa.org/flags/54.png,82,81,FC Barcelona,MID
+Pau López,23,6'2,170lbs,Spain,24,https://cdn.sofifa.org/players/4/19/221087.png,https://cdn.sofifa.org/flags/45.png,82,67,Real Betis,GK
+L. Hernández,22,6'0,168lbs,France,28,https://cdn.sofifa.org/players/4/19/220814.png,https://cdn.sofifa.org/flags/18.png,82,75,Atlético Madrid,DEF
+C. Lenglet,23,6'1,179lbs,France,29,https://cdn.sofifa.org/players/4/19/220440.png,https://cdn.sofifa.org/flags/18.png,82,75,FC Barcelona,DEF
+A. Kramarić,27,5'10,161lbs,Croatia,29,https://cdn.sofifa.org/players/4/19/216354.png,https://cdn.sofifa.org/flags/10.png,82,0,TSG 1899 Hoffenheim,MID
+A. Robertson,24,5'10,141lbs,Scotland,27,https://cdn.sofifa.org/players/4/19/216267.png,https://cdn.sofifa.org/flags/42.png,82,67,Liverpool,DEF
+Dani García,28,5'11,176lbs,Spain,22,https://cdn.sofifa.org/players/4/19/216194.png,https://cdn.sofifa.org/flags/45.png,82,0,Athletic Club de Bilbao,MID
+F. Bernardeschi,24,6'1,170lbs,Italy,33,https://cdn.sofifa.org/players/4/19/212404.png,https://cdn.sofifa.org/flags/27.png,82,67,Juventus,MID
+J. Brandt,22,6'1,185lbs,Germany,34,https://cdn.sofifa.org/players/4/19/212194.png,https://cdn.sofifa.org/flags/21.png,82,75,Bayer 04 Leverkusen,MID
+D. Rugani,23,6'3,185lbs,Italy,27,https://cdn.sofifa.org/players/4/19/211320.png,https://cdn.sofifa.org/flags/27.png,82,58,Juventus,DEF
+Samu Castillejo,23,6'0,148lbs,Spain,32,https://cdn.sofifa.org/players/4/19/210617.png,https://cdn.sofifa.org/flags/45.png,82,58,Milan,MID
+João Cancelo,24,6'0,163lbs,Portugal,28,https://cdn.sofifa.org/players/4/19/210514.png,https://cdn.sofifa.org/flags/38.png,82,75,Juventus,DEF
+A. Romagnoli,23,6'2,172lbs,Italy,29,https://cdn.sofifa.org/players/4/19/210413.png,https://cdn.sofifa.org/flags/27.png,82,81,Milan,DEF
+T. Partey,25,6'1,170lbs,Ghana,28,https://cdn.sofifa.org/players/4/19/209989.png,https://cdn.sofifa.org/flags/117.png,82,75,Atlético Madrid,MID
+Fred,25,5'7,141lbs,Brazil,29,https://cdn.sofifa.org/players/4/19/209297.png,https://cdn.sofifa.org/flags/54.png,82,29,Manchester United,MID
+J. Vardy,31,5'10,163lbs,England,22,https://cdn.sofifa.org/players/4/19/208830.png,https://cdn.sofifa.org/flags/14.png,82,0,Leicester City,FWD
+A. Belotti,24,5'11,159lbs,Italy,33,https://cdn.sofifa.org/players/4/19/208596.png,https://cdn.sofifa.org/flags/27.png,82,67,Torino,FWD
+E. Forsberg,26,5'10,163lbs,Sweden,29,https://cdn.sofifa.org/players/4/19/208448.png,https://cdn.sofifa.org/flags/46.png,82,0,RB Leipzig,MID
+J. Lingard,25,5'9,137lbs,England,29,https://cdn.sofifa.org/players/4/19/207494.png,https://cdn.sofifa.org/flags/14.png,82,0,Manchester United,MID
+F. Vázquez,29,6'1,181lbs,Argentina,24,https://cdn.sofifa.org/players/4/19/207471.png,https://cdn.sofifa.org/flags/52.png,82,0,Sevilla FC,MID
+E. Višća,28,5'8,139lbs,Bosnia Herzegovina,25,https://cdn.sofifa.org/players/4/19/205678.png,https://cdn.sofifa.org/flags/8.png,82,0,Medipol Başakşehir FK,MID
+A. Rüdiger,25,6'3,187lbs,Germany,25,https://cdn.sofifa.org/players/4/19/205452.png,https://cdn.sofifa.org/flags/21.png,82,29,Chelsea,DEF
+A. Florenzi,27,5'8,148lbs,Italy,23,https://cdn.sofifa.org/players/4/19/203551.png,https://cdn.sofifa.org/flags/27.png,82,0,Roma,DEF
+H. Maguire,25,6'4,220lbs,England,26,https://cdn.sofifa.org/players/4/19/203263.png,https://cdn.sofifa.org/flags/14.png,82,46,Leicester City,DEF
+T. Meunier,26,6'3,198lbs,Belgium,23,https://cdn.sofifa.org/players/4/19/202371.png,https://cdn.sofifa.org/flags/7.png,82,0,Paris Saint-Germain,MID
+S. Sané,27,6'5,187lbs,Senegal,20,https://cdn.sofifa.org/players/4/19/201956.png,https://cdn.sofifa.org/flags/136.png,82,0,FC Schalke 04,DEF
+G. Kondogbia,25,6'2,176lbs,Central African Rep.,31,https://cdn.sofifa.org/players/4/19/201455.png,https://cdn.sofifa.org/flags/105.png,82,46,Valencia FWD,MID
+Rafinha,25,5'9,157lbs,Brazil,33,https://cdn.sofifa.org/players/4/19/201400.png,https://cdn.sofifa.org/flags/54.png,82,67,FC Barcelona,MID
+Gabriel Paulista,27,6'2,174lbs,Brazil,23,https://cdn.sofifa.org/players/4/19/201305.png,https://cdn.sofifa.org/flags/54.png,82,0,Valencia FWD,DEF
+Morata,25,6'2,187lbs,Spain,32,https://cdn.sofifa.org/players/4/19/201153.png,https://cdn.sofifa.org/flags/45.png,82,46,Chelsea,FWD
+J. Cillessen,29,6'1,183lbs,Netherlands,20,https://cdn.sofifa.org/players/4/19/199987.png,https://cdn.sofifa.org/flags/34.png,82,29,FC Barcelona,GK
+W. Ben Yedder,27,5'7,150lbs,France,26,https://cdn.sofifa.org/players/4/19/199451.png,https://cdn.sofifa.org/flags/18.png,82,0,Sevilla FC,FWD
+C. Bakambu,27,6'0,161lbs,DR Congo,29,https://cdn.sofifa.org/players/4/19/198951.png,https://cdn.sofifa.org/flags/110.png,82,0,Beijing Sinobo Guoan FC,FWD
+Pablo Sarabia,26,5'9,154lbs,Spain,29,https://cdn.sofifa.org/players/4/19/198950.png,https://cdn.sofifa.org/flags/45.png,82,0,Sevilla FC,MID
+W. Zaha,25,5'11,146lbs,Ivory Coast,32,https://cdn.sofifa.org/players/4/19/198717.png,https://cdn.sofifa.org/flags/108.png,82,46,Crystal Palace,FWD
+Luis Alberto,25,6'0,163lbs,Spain,32,https://cdn.sofifa.org/players/4/19/198706.png,https://cdn.sofifa.org/flags/45.png,82,46,Lazio,FWD
+Jonathan Viera,28,5'7,141lbs,Spain,25,https://cdn.sofifa.org/players/4/19/198164.png,https://cdn.sofifa.org/flags/45.png,82,0,Beijing Sinobo Guoan FC,FWD
+Bartra,27,6'0,161lbs,Spain,23,https://cdn.sofifa.org/players/4/19/198141.png,https://cdn.sofifa.org/flags/45.png,82,0,Real Betis,DEF
+S. Coates,27,6'5,203lbs,Uruguay,23,https://cdn.sofifa.org/players/4/19/197655.png,https://cdn.sofifa.org/flags/60.png,82,0,Sporting CP,DEF
+Willian José,26,6'2,205lbs,Brazil,29,https://cdn.sofifa.org/players/4/19/195093.png,https://cdn.sofifa.org/flags/54.png,82,0,Real Sociedad,FWD
+Mário Fernandes,27,6'2,176lbs,Russia,20,https://cdn.sofifa.org/players/4/19/193525.png,https://cdn.sofifa.org/flags/40.png,82,0,PFC CSKA Moscow,DEF
+Víctor Ruiz,29,6'1,172lbs,Spain,22,https://cdn.sofifa.org/players/4/19/193469.png,https://cdn.sofifa.org/flags/45.png,82,0,Villarreal FWD,DEF
+T. Delaney,26,6'0,174lbs,Denmark,24,https://cdn.sofifa.org/players/4/19/193283.png,https://cdn.sofifa.org/flags/13.png,82,0,Borussia Dortmund,MID
+K. Casteels,26,6'6,190lbs,Belgium,22,https://cdn.sofifa.org/players/4/19/192984.png,https://cdn.sofifa.org/flags/7.png,82,46,VfL Wolfsburg,GK
+M. Götze,26,5'9,165lbs,Germany,30,https://cdn.sofifa.org/players/4/19/192318.png,https://cdn.sofifa.org/flags/21.png,82,46,Borussia Dortmund,MID
+S. Mustafi,26,6'0,181lbs,Germany,25,https://cdn.sofifa.org/players/4/19/192227.png,https://cdn.sofifa.org/flags/21.png,82,29,Arsenal,DEF
+J. Pastore,29,6'2,172lbs,Argentina,24,https://cdn.sofifa.org/players/4/19/191180.png,https://cdn.sofifa.org/flags/52.png,82,0,Roma,MID
+Pedro,30,5'7,143lbs,Spain,23,https://cdn.sofifa.org/players/4/19/189505.png,https://cdn.sofifa.org/flags/45.png,82,0,Chelsea,MID
+G. Bonaventura,28,5'11,165lbs,Italy,24,https://cdn.sofifa.org/players/4/19/189125.png,https://cdn.sofifa.org/flags/27.png,82,0,Milan,MID
+R. Bürki,27,6'2,187lbs,Switzerland,20,https://cdn.sofifa.org/players/4/19/189117.png,https://cdn.sofifa.org/flags/47.png,82,46,Borussia Dortmund,GK
+Taison,30,5'8,141lbs,Brazil,23,https://cdn.sofifa.org/players/4/19/188803.png,https://cdn.sofifa.org/flags/54.png,82,0,Shakhtar Donetsk,MID
+S. Nzonzi,29,6'5,165lbs,France,19,https://cdn.sofifa.org/players/4/19/187936.png,https://cdn.sofifa.org/flags/18.png,82,0,Roma,MID
+Marlos,30,5'9,152lbs,Ukraine,23,https://cdn.sofifa.org/players/4/19/187754.png,https://cdn.sofifa.org/flags/49.png,82,0,Shakhtar Donetsk,MID
+A. Ramsey,27,6'0,168lbs,Wales,28,https://cdn.sofifa.org/players/4/19/186561.png,https://cdn.sofifa.org/flags/50.png,82,0,Arsenal,MID
+K. Trippier,27,5'10,159lbs,England,20,https://cdn.sofifa.org/players/4/19/186345.png,https://cdn.sofifa.org/flags/14.png,82,0,Tottenham Hotspur,DEF
+A. Kolarov,32,6'2,183lbs,Serbia,14,https://cdn.sofifa.org/players/4/19/185103.png,https://cdn.sofifa.org/flags/51.png,82,0,Roma,DEF
+G. Sigurðsson,28,6'1,181lbs,Iceland,25,https://cdn.sofifa.org/players/4/19/184484.png,https://cdn.sofifa.org/flags/24.png,82,0,Everton,MID
+S. Giovinco,31,5'4,134lbs,Italy,22,https://cdn.sofifa.org/players/4/19/184431.png,https://cdn.sofifa.org/flags/27.png,82,0,Toronto FC,FWD
+M. Arnautović,29,6'4,183lbs,Austria,24,https://cdn.sofifa.org/players/4/19/184200.png,https://cdn.sofifa.org/flags/4.png,82,0,West Ham United,FWD
+N. Gaitán,30,5'8,146lbs,Argentina,23,https://cdn.sofifa.org/players/4/19/184144.png,https://cdn.sofifa.org/flags/52.png,82,0,Dalian YiFang FC,MID
+J. Henderson,28,6'0,176lbs,England,20,https://cdn.sofifa.org/players/4/19/183711.png,https://cdn.sofifa.org/flags/14.png,82,0,Liverpool,MID
+M. Kruse,30,5'11,168lbs,Germany,24,https://cdn.sofifa.org/players/4/19/183574.png,https://cdn.sofifa.org/flags/21.png,82,0,SV Werder Bremen,FWD
+M. Parolo,33,6'0,165lbs,Italy,10,https://cdn.sofifa.org/players/4/19/183498.png,https://cdn.sofifa.org/flags/27.png,82,0,Lazio,MID
+L. Fejsa,29,6'0,176lbs,Serbia,19,https://cdn.sofifa.org/players/4/19/183376.png,https://cdn.sofifa.org/flags/51.png,82,0,SL Benfica,MID
+A. Rami,32,6'3,198lbs,France,14,https://cdn.sofifa.org/players/4/19/183280.png,https://cdn.sofifa.org/flags/18.png,82,0,Olympique de Marseille,DEF
+V. Ćorluka,32,6'4,185lbs,Croatia,14,https://cdn.sofifa.org/players/4/19/181786.png,https://cdn.sofifa.org/flags/10.png,82,0,Lokomotiv Moscow,DEF
+G. Wijnaldum,27,5'9,152lbs,Netherlands,25,https://cdn.sofifa.org/players/4/19/181291.png,https://cdn.sofifa.org/flags/34.png,82,0,Liverpool,MID
+F. Fazio,31,6'5,187lbs,Argentina,16,https://cdn.sofifa.org/players/4/19/179847.png,https://cdn.sofifa.org/flags/52.png,82,0,Roma,DEF
+O. Giroud,31,6'4,203lbs,France,22,https://cdn.sofifa.org/players/4/19/178509.png,https://cdn.sofifa.org/flags/18.png,82,0,Chelsea,FWD
+Marcano,31,6'2,170lbs,Spain,16,https://cdn.sofifa.org/players/4/19/173521.png,https://cdn.sofifa.org/flags/45.png,82,0,Roma,DEF
+A. Guardado,31,5'7,148lbs,Mexico,21,https://cdn.sofifa.org/players/4/19/171897.png,https://cdn.sofifa.org/flags/83.png,82,0,Real Betis,MID
+E. Garay,31,6'2,198lbs,Argentina,16,https://cdn.sofifa.org/players/4/19/170481.png,https://cdn.sofifa.org/flags/52.png,82,0,Valencia FWD,DEF
+Jardel,32,6'4,192lbs,Brazil,14,https://cdn.sofifa.org/players/4/19/168530.png,https://cdn.sofifa.org/flags/54.png,82,0,SL Benfica,DEF
+S. Sirigu,31,6'4,176lbs,Italy,15,https://cdn.sofifa.org/players/4/19/168435.png,https://cdn.sofifa.org/flags/27.png,82,0,Torino,GK
+E. Viviano,32,6'5,198lbs,Italy,14,https://cdn.sofifa.org/players/4/19/168354.png,https://cdn.sofifa.org/flags/27.png,82,0,Sporting CP,GK
+L. Koscielny,32,6'1,165lbs,France,14,https://cdn.sofifa.org/players/4/19/165229.png,https://cdn.sofifa.org/flags/18.png,82,0,Arsenal,DEF
+A. Consigli,31,6'2,181lbs,Italy,15,https://cdn.sofifa.org/players/4/19/163489.png,https://cdn.sofifa.org/flags/27.png,82,0,Sassuolo,GK
+L. Biglia,32,5'10,139lbs,Argentina,14,https://cdn.sofifa.org/players/4/19/158963.png,https://cdn.sofifa.org/flags/52.png,82,0,Milan,MID
+Dani Alves,35,5'8,150lbs,Brazil,5,https://cdn.sofifa.org/players/4/19/146530.png,https://cdn.sofifa.org/flags/54.png,82,0,Paris Saint-Germain,DEF
+David Villa,36,5'9,152lbs,Spain,9,https://cdn.sofifa.org/players/4/19/113422.png,https://cdn.sofifa.org/flags/45.png,82,0,New York City FC,FWD
+Aduriz,37,6'0,172lbs,Spain,9,https://cdn.sofifa.org/players/4/19/106231.png,https://cdn.sofifa.org/flags/45.png,82,0,Athletic Club de Bilbao,FWD
+P. Čech,36,6'5,198lbs,Czech Republic,3,https://cdn.sofifa.org/players/4/19/48940.png,https://cdn.sofifa.org/flags/12.png,82,0,Arsenal,GK
+Casillas,37,6'1,185lbs,Spain,1,https://cdn.sofifa.org/players/4/19/5479.png,https://cdn.sofifa.org/flags/45.png,82,0,FC Porto,GK
+M. Rashford,20,6'1,154lbs,England,30,https://cdn.sofifa.org/players/4/19/231677.png,https://cdn.sofifa.org/flags/14.png,81,87,Manchester United,MID
+Laure Santeiro,30,5'7,139lbs,Brazil,19,https://cdn.sofifa.org/players/4/19/230271.png,https://cdn.sofifa.org/flags/54.png,81,0,Fluminense,MID
+L. Bailey,20,5'10,174lbs,Jamaica,29,https://cdn.sofifa.org/players/4/19/229906.png,https://cdn.sofifa.org/flags/82.png,81,87,Bayer 04 Leverkusen,MID
+M. Akanji,22,6'2,187lbs,Switzerland,23,https://cdn.sofifa.org/players/4/19/229237.png,https://cdn.sofifa.org/flags/47.png,81,75,Borussia Dortmund,DEF
+F. de Jong,21,5'11,154lbs,Netherlands,29,https://cdn.sofifa.org/players/4/19/228702.png,https://cdn.sofifa.org/flags/34.png,81,87,Ajax,DEF
+Nélson Semedo,24,5'10,148lbs,Portugal,22,https://cdn.sofifa.org/players/4/19/227928.png,https://cdn.sofifa.org/flags/38.png,81,67,FC Barcelona,DEF
+Pablo Fornals,22,5'10,148lbs,Spain,27,https://cdn.sofifa.org/players/4/19/226456.png,https://cdn.sofifa.org/flags/45.png,81,67,Villarreal FWD,MID
+Fabián,22,6'2,154lbs,Spain,29,https://cdn.sofifa.org/players/4/19/226271.png,https://cdn.sofifa.org/flags/45.png,81,87,Napoli,MID
+E. Bailly,24,6'1,170lbs,Ivory Coast,23,https://cdn.sofifa.org/players/4/19/225508.png,https://cdn.sofifa.org/flags/108.png,81,75,Manchester United,DEF
+Dani Ceballos,21,5'10,154lbs,Spain,28,https://cdn.sofifa.org/players/4/19/222509.png,https://cdn.sofifa.org/flags/45.png,81,81,Real Madrid,MID
+H. Lozano,22,5'9,154lbs,Mexico,27,https://cdn.sofifa.org/players/4/19/221992.png,https://cdn.sofifa.org/flags/83.png,81,67,PSV,FWD
+Morales,30,5'11,154lbs,Spain,19,https://cdn.sofifa.org/players/4/19/216475.png,https://cdn.sofifa.org/flags/45.png,81,0,Levante UD,FWD
+J. Seri,26,5'7,161lbs,Ivory Coast,23,https://cdn.sofifa.org/players/4/19/216451.png,https://cdn.sofifa.org/flags/108.png,81,0,Fulham,DEF
+M. Politano,24,5'7,148lbs,Italy,25,https://cdn.sofifa.org/players/4/19/216409.png,https://cdn.sofifa.org/flags/27.png,81,46,Inter,MID
+M. Brozović,25,5'11,150lbs,Croatia,20,https://cdn.sofifa.org/players/4/19/216352.png,https://cdn.sofifa.org/flags/10.png,81,46,Inter,DEF
+Williams,24,6'1,174lbs,Spain,27,https://cdn.sofifa.org/players/4/19/216201.png,https://cdn.sofifa.org/flags/45.png,81,75,Athletic Club de Bilbao,MID
+A. Correa,23,5'7,150lbs,Argentina,27,https://cdn.sofifa.org/players/4/19/214997.png,https://cdn.sofifa.org/flags/52.png,81,75,Atlético Madrid,MID
+A. Christensen,22,6'2,179lbs,Denmark,24,https://cdn.sofifa.org/players/4/19/213661.png,https://cdn.sofifa.org/flags/13.png,81,81,Chelsea,DEF
+João Mário,25,5'10,161lbs,Portugal,25,https://cdn.sofifa.org/players/4/19/212814.png,https://cdn.sofifa.org/flags/38.png,81,46,Inter,MID
+T. Strakosha,23,6'4,172lbs,Albania,19,https://cdn.sofifa.org/players/4/19/212151.png,https://cdn.sofifa.org/flags/1.png,81,67,Lazio,GK
+E. Hysaj,24,6'0,154lbs,Albania,22,https://cdn.sofifa.org/players/4/19/210864.png,https://cdn.sofifa.org/flags/1.png,81,67,Napoli,DEF
+P. Zieliński,24,5'11,165lbs,Poland,27,https://cdn.sofifa.org/players/4/19/210406.png,https://cdn.sofifa.org/flags/37.png,81,81,Napoli,MID
+Ricardo Pereira,24,5'9,154lbs,Portugal,21,https://cdn.sofifa.org/players/4/19/210243.png,https://cdn.sofifa.org/flags/38.png,81,58,Leicester City,DEF
+Grimaldo,22,5'7,152lbs,Spain,23,https://cdn.sofifa.org/players/4/19/210035.png,https://cdn.sofifa.org/flags/45.png,81,75,SL Benfica,DEF
+R. Guerreiro,24,5'7,157lbs,Portugal,27,https://cdn.sofifa.org/players/4/19/209889.png,https://cdn.sofifa.org/flags/38.png,81,67,Borussia Dortmund,MID
+A. Doucouré,25,6'0,168lbs,France,22,https://cdn.sofifa.org/players/4/19/208135.png,https://cdn.sofifa.org/flags/18.png,81,58,Watford,MID
+J. Martínez,25,5'7,152lbs,Venezuela,25,https://cdn.sofifa.org/players/4/19/207877.png,https://cdn.sofifa.org/flags/61.png,81,46,Atlanta United,FWD
+C. Bacca,31,5'11,170lbs,Colombia,18,https://cdn.sofifa.org/players/4/19/207664.png,https://cdn.sofifa.org/flags/56.png,81,0,Villarreal FWD,FWD
+A. Plea,25,5'11,174lbs,France,24,https://cdn.sofifa.org/players/4/19/206467.png,https://cdn.sofifa.org/flags/18.png,81,29,Borussia Mönchengladbach,MID
+B. Davies,25,6'0,168lbs,Wales,20,https://cdn.sofifa.org/players/4/19/205923.png,https://cdn.sofifa.org/flags/50.png,81,46,Tottenham Hotspur,DEF
+M. Nastasić,25,6'2,183lbs,Serbia,20,https://cdn.sofifa.org/players/4/19/205362.png,https://cdn.sofifa.org/flags/51.png,81,46,FC Schalke 04,DEF
+A. Milik,24,6'1,172lbs,Poland,28,https://cdn.sofifa.org/players/4/19/205175.png,https://cdn.sofifa.org/flags/37.png,81,81,Napoli,FWD
+M. Sabitzer,24,5'10,170lbs,Austria,25,https://cdn.sofifa.org/players/4/19/204923.png,https://cdn.sofifa.org/flags/4.png,81,46,RB Leipzig,MID
+B. Mendy,23,6'1,187lbs,France,22,https://cdn.sofifa.org/players/4/19/204884.png,https://cdn.sofifa.org/flags/18.png,81,67,Manchester City,DEF
+C. Kramer,27,6'3,168lbs,Germany,19,https://cdn.sofifa.org/players/4/19/204024.png,https://cdn.sofifa.org/flags/21.png,81,0,Borussia Mönchengladbach,MID
+S. Vrsaljko,26,5'11,168lbs,Croatia,20,https://cdn.sofifa.org/players/4/19/203890.png,https://cdn.sofifa.org/flags/10.png,81,46,Inter,DEF
+T. Hazard,25,5'9,152lbs,Belgium,24,https://cdn.sofifa.org/players/4/19/203486.png,https://cdn.sofifa.org/flags/7.png,81,29,Borussia Mönchengladbach,MID
+K. Bellarabi,28,6'0,179lbs,Germany,20,https://cdn.sofifa.org/players/4/19/202857.png,https://cdn.sofifa.org/flags/21.png,81,0,Bayer 04 Leverkusen,MID
+S. Zaza,27,6'1,185lbs,Italy,23,https://cdn.sofifa.org/players/4/19/202685.png,https://cdn.sofifa.org/flags/27.png,81,0,Torino,FWD
+F. Ghoulam,27,6'0,176lbs,Algeria,18,https://cdn.sofifa.org/players/4/19/201454.png,https://cdn.sofifa.org/flags/97.png,81,0,Napoli,DEF
+B. Lecomte,27,6'1,172lbs,France,16,https://cdn.sofifa.org/players/4/19/200726.png,https://cdn.sofifa.org/flags/18.png,81,46,Montpellier HSC,GK
+J. Iličić,30,6'3,174lbs,Slovenia,19,https://cdn.sofifa.org/players/4/19/200647.png,https://cdn.sofifa.org/flags/44.png,81,0,Atalanta,MID
+K. Volland,25,5'10,187lbs,Germany,24,https://cdn.sofifa.org/players/4/19/200610.png,https://cdn.sofifa.org/flags/21.png,81,29,Bayer 04 Leverkusen,FWD
+Paco Alcácer,24,5'9,159lbs,Spain,26,https://cdn.sofifa.org/players/4/19/200454.png,https://cdn.sofifa.org/flags/45.png,81,58,Borussia Dortmund,FWD
+Vitolo,28,6'1,174lbs,Spain,20,https://cdn.sofifa.org/players/4/19/199715.png,https://cdn.sofifa.org/flags/45.png,81,0,Atlético Madrid,MID
+G. Xhaka,25,6'1,181lbs,Switzerland,24,https://cdn.sofifa.org/players/4/19/199503.png,https://cdn.sofifa.org/flags/47.png,81,46,Arsenal,DEF
+D. Tadić,29,5'11,168lbs,Serbia,19,https://cdn.sofifa.org/players/4/19/199434.png,https://cdn.sofifa.org/flags/51.png,81,0,Ajax,FWD
+C. Aránguiz,29,5'7,154lbs,Chile,19,https://cdn.sofifa.org/players/4/19/199042.png,https://cdn.sofifa.org/flags/55.png,81,0,Bayer 04 Leverkusen,DEF
+S. Verdi,25,5'7,134lbs,Italy,22,https://cdn.sofifa.org/players/4/19/196889.png,https://cdn.sofifa.org/flags/27.png,81,0,Napoli,MID
+D. Lovren,28,6'2,185lbs,Croatia,18,https://cdn.sofifa.org/players/4/19/195086.png,https://cdn.sofifa.org/flags/10.png,81,0,Liverpool,DEF
+G. Medel,30,5'7,143lbs,Chile,14,https://cdn.sofifa.org/players/4/19/193532.png,https://cdn.sofifa.org/flags/55.png,81,0,Beşiktaş JK,DEF
+X. Shaqiri,26,5'7,159lbs,Switzerland,21,https://cdn.sofifa.org/players/4/19/193348.png,https://cdn.sofifa.org/flags/47.png,81,0,Liverpool,MID
+J. Corona,25,5'8,137lbs,Mexico,24,https://cdn.sofifa.org/players/4/19/193165.png,https://cdn.sofifa.org/flags/83.png,81,29,FC Porto,MID
+A. Areola,25,6'5,207lbs,France,18,https://cdn.sofifa.org/players/4/19/193105.png,https://cdn.sofifa.org/flags/18.png,81,58,Paris Saint-Germain,GK
+K. Vogt,26,6'4,187lbs,Germany,19,https://cdn.sofifa.org/players/4/19/192641.png,https://cdn.sofifa.org/flags/21.png,81,0,TSG 1899 Hoffenheim,DEF
+Ander Herrera,28,6'0,154lbs,Spain,19,https://cdn.sofifa.org/players/4/19/191740.png,https://cdn.sofifa.org/flags/45.png,81,0,Manchester United,MID
+E. Salvio,27,5'8,170lbs,Argentina,20,https://cdn.sofifa.org/players/4/19/190972.png,https://cdn.sofifa.org/flags/52.png,81,0,SL Benfica,MID
+S. El Shaarawy,25,5'10,159lbs,Italy,23,https://cdn.sofifa.org/players/4/19/190813.png,https://cdn.sofifa.org/flags/27.png,81,0,Roma,MID
+C. Smalling,28,6'4,179lbs,England,18,https://cdn.sofifa.org/players/4/19/189881.png,https://cdn.sofifa.org/flags/14.png,81,0,Manchester United,DEF
+Hulk,31,5'11,187lbs,Brazil,17,https://cdn.sofifa.org/players/4/19/189362.png,https://cdn.sofifa.org/flags/54.png,81,0,Shanghai SIPG FC,MID
+S. Kagawa,29,5'9,150lbs,Japan,19,https://cdn.sofifa.org/players/4/19/189358.png,https://cdn.sofifa.org/flags/163.png,81,0,Borussia Dortmund,MID
+M. Lanzini,25,5'6,130lbs,Argentina,25,https://cdn.sofifa.org/players/4/19/188988.png,https://cdn.sofifa.org/flags/52.png,81,58,West Ham United,MID
+F. Smolov,28,6'2,176lbs,Russia,20,https://cdn.sofifa.org/players/4/19/187491.png,https://cdn.sofifa.org/flags/40.png,81,0,Lokomotiv Moscow,FWD
+L. Stindl,29,5'11,176lbs,Germany,20,https://cdn.sofifa.org/players/4/19/187072.png,https://cdn.sofifa.org/flags/21.png,81,0,Borussia Mönchengladbach,FWD
+O. Toprak,28,6'1,183lbs,Turkey,18,https://cdn.sofifa.org/players/4/19/185239.png,https://cdn.sofifa.org/flags/48.png,81,0,Borussia Dortmund,DEF
+D. Perotti,29,5'10,154lbs,Argentina,19,https://cdn.sofifa.org/players/4/19/183900.png,https://cdn.sofifa.org/flags/52.png,81,0,Roma,MID
+F. Muslera,32,6'3,163lbs,Uruguay,11,https://cdn.sofifa.org/players/4/19/182494.png,https://cdn.sofifa.org/flags/60.png,81,0,Galatasaray SK,GK
+B. Höwedes,30,6'2,170lbs,Germany,14,https://cdn.sofifa.org/players/4/19/179784.png,https://cdn.sofifa.org/flags/21.png,81,0,Lokomotiv Moscow,DEF
+S. Kjær,29,6'2,185lbs,Denmark,15,https://cdn.sofifa.org/players/4/19/179645.png,https://cdn.sofifa.org/flags/13.png,81,0,Sevilla FC,DEF
+S. Bender,29,6'1,176lbs,Germany,15,https://cdn.sofifa.org/players/4/19/177458.png,https://cdn.sofifa.org/flags/21.png,81,0,Bayer 04 Leverkusen,DEF
+M. Valbuena,33,5'6,139lbs,France,12,https://cdn.sofifa.org/players/4/19/177326.png,https://cdn.sofifa.org/flags/18.png,81,0,Fenerbahçe SK,MID
+Pedro León,31,6'0,161lbs,Spain,17,https://cdn.sofifa.org/players/4/19/175379.png,https://cdn.sofifa.org/flags/45.png,81,0,SD Eibar,MID
+K. Boateng,31,6'1,190lbs,Ghana,16,https://cdn.sofifa.org/players/4/19/173909.png,https://cdn.sofifa.org/flags/117.png,81,0,Sassuolo,MID
+L. Piszczek,33,6'0,174lbs,Poland,7,https://cdn.sofifa.org/players/4/19/173771.png,https://cdn.sofifa.org/flags/37.png,81,0,Borussia Dortmund,DEF
+A. Candreva,31,5'11,154lbs,Italy,17,https://cdn.sofifa.org/players/4/19/173221.png,https://cdn.sofifa.org/flags/27.png,81,0,Inter,MID
+D. Wass,29,5'11,163lbs,Denmark,19,https://cdn.sofifa.org/players/4/19/172522.png,https://cdn.sofifa.org/flags/13.png,81,0,Valencia FWD,DEF
+E. Lamela,26,6'0,176lbs,Argentina,23,https://cdn.sofifa.org/players/4/19/170368.png,https://cdn.sofifa.org/flags/52.png,81,0,Tottenham Hotspur,MID
+D. Rose,27,5'9,168lbs,England,16,https://cdn.sofifa.org/players/4/19/169595.png,https://cdn.sofifa.org/flags/14.png,81,0,Tottenham Hotspur,DEF
+C. Vela,29,5'10,170lbs,Mexico,19,https://cdn.sofifa.org/players/4/19/169416.png,https://cdn.sofifa.org/flags/83.png,81,0,Los Angeles FC,MID
+Renato Augusto,30,6'1,190lbs,Brazil,18,https://cdn.sofifa.org/players/4/19/169195.png,https://cdn.sofifa.org/flags/54.png,81,0,Beijing Sinobo Guoan FC,MID
+A. Valencia,32,5'11,183lbs,Ecuador,11,https://cdn.sofifa.org/players/4/19/167905.png,https://cdn.sofifa.org/flags/57.png,81,0,Manchester United,MID
+L. Fabiański,33,6'3,183lbs,Poland,10,https://cdn.sofifa.org/players/4/19/164835.png,https://cdn.sofifa.org/flags/37.png,81,0,West Ham United,GK
+João Moutinho,31,5'7,134lbs,Portugal,16,https://cdn.sofifa.org/players/4/19/162347.png,https://cdn.sofifa.org/flags/38.png,81,0,Wolverhampton Wanderers,MID
+Borja Valero,33,5'9,161lbs,Spain,12,https://cdn.sofifa.org/players/4/19/161956.png,https://cdn.sofifa.org/flags/45.png,81,0,Inter,MID
+F. Quagliarella,35,5'11,174lbs,Italy,9,https://cdn.sofifa.org/players/4/19/159261.png,https://cdn.sofifa.org/flags/27.png,81,0,Sampdoria,FWD
+B. Gomis,32,6'0,170lbs,France,15,https://cdn.sofifa.org/players/4/19/159145.png,https://cdn.sofifa.org/flags/18.png,81,0,Al Hilal,FWD
+Manuel Fernandes,32,5'9,165lbs,Portugal,15,https://cdn.sofifa.org/players/4/19/157960.png,https://cdn.sofifa.org/flags/38.png,81,0,Lokomotiv Moscow,MID
+H. Herrera,28,6'0,159lbs,Mexico,19,https://cdn.sofifa.org/players/4/19/156519.png,https://cdn.sofifa.org/flags/83.png,81,0,FC Porto,MID
+Raffael,33,5'9,152lbs,Brazil,12,https://cdn.sofifa.org/players/4/19/144622.png,https://cdn.sofifa.org/flags/54.png,81,0,Borussia Mönchengladbach,FWD
+Nani,31,5'10,150lbs,Portugal,17,https://cdn.sofifa.org/players/4/19/139068.png,https://cdn.sofifa.org/flags/38.png,81,0,Sporting CP,MID
+J. Milner,32,5'9,154lbs,England,15,https://cdn.sofifa.org/players/4/19/138412.png,https://cdn.sofifa.org/flags/14.png,81,0,Liverpool,MID
+J. Mathieu,34,6'2,185lbs,France,6,https://cdn.sofifa.org/players/4/19/112316.png,https://cdn.sofifa.org/flags/18.png,81,0,Sporting CP,DEF
+Joaquín,36,5'10,165lbs,Spain,6,https://cdn.sofifa.org/players/4/19/45186.png,https://cdn.sofifa.org/flags/45.png,81,0,Real Betis,FWD
+M. Gómez,21,6'1,185lbs,Uruguay,23,https://cdn.sofifa.org/players/4/19/239207.png,https://cdn.sofifa.org/flags/60.png,80,67,RC Celta,FWD
+K. Havertz,19,6'2,183lbs,Germany,24,https://cdn.sofifa.org/players/4/19/235790.png,https://cdn.sofifa.org/flags/21.png,80,92,Bayer 04 Leverkusen,MID
+T. Ndombele,21,5'11,168lbs,France,25,https://cdn.sofifa.org/players/4/19/235569.png,https://cdn.sofifa.org/flags/18.png,80,92,Olympique Lyonnais,MID
+H. Aouar,20,5'9,154lbs,France,26,https://cdn.sofifa.org/players/4/19/234906.png,https://cdn.sofifa.org/flags/18.png,80,96,Olympique Lyonnais,MID
+Carlos Soler,21,5'11,168lbs,Spain,23,https://cdn.sofifa.org/players/4/19/234153.png,https://cdn.sofifa.org/flags/45.png,80,81,Valencia FWD,MID
+Odriozola,22,5'9,146lbs,Spain,20,https://cdn.sofifa.org/players/4/19/234035.png,https://cdn.sofifa.org/flags/45.png,80,87,Real Madrid,DEF
+M. Almirón,24,5'9,139lbs,Paraguay,22,https://cdn.sofifa.org/players/4/19/230977.png,https://cdn.sofifa.org/flags/58.png,80,58,Atlanta United,MID
+Welington Dano,30,5'10,152lbs,Brazil,11,https://cdn.sofifa.org/players/4/19/230347.png,https://cdn.sofifa.org/flags/54.png,80,0,Cruzeiro,DEF
+Everton Andrão,34,5'10,165lbs,Brazil,5,https://cdn.sofifa.org/players/4/19/230234.png,https://cdn.sofifa.org/flags/54.png,80,0,Fluminense,MID
+Oyarzabal,21,5'11,172lbs,Spain,23,https://cdn.sofifa.org/players/4/19/230142.png,https://cdn.sofifa.org/flags/45.png,80,81,Real Sociedad,MID
+F. Balbuena,26,6'2,187lbs,Paraguay,17,https://cdn.sofifa.org/players/4/19/228229.png,https://cdn.sofifa.org/flags/58.png,80,46,West Ham United,DEF
+M. Marega,27,6'1,183lbs,Mali,18,https://cdn.sofifa.org/players/4/19/227536.png,https://cdn.sofifa.org/flags/126.png,80,0,FC Porto,FWD
+B. Pavard,22,6'1,168lbs,France,19,https://cdn.sofifa.org/players/4/19/226851.png,https://cdn.sofifa.org/flags/18.png,80,75,VfB Stuttgart,DEF
+W. Ndidi,21,6'0,163lbs,Nigeria,19,https://cdn.sofifa.org/players/4/19/226790.png,https://cdn.sofifa.org/flags/133.png,80,67,Leicester City,DEF
+A. Onana,22,6'2,205lbs,Cameroon,16,https://cdn.sofifa.org/players/4/19/226753.png,https://cdn.sofifa.org/flags/103.png,80,67,Ajax,GK
+G. Lo Celso,22,5'9,154lbs,Argentina,22,https://cdn.sofifa.org/players/4/19/226226.png,https://cdn.sofifa.org/flags/52.png,80,75,Real Betis,MID
+M. Acuña,26,5'8,152lbs,Argentina,14,https://cdn.sofifa.org/players/4/19/224334.png,https://cdn.sofifa.org/flags/52.png,80,0,Sporting CP,DEF
+Rúben Neves,21,5'11,176lbs,Portugal,23,https://cdn.sofifa.org/players/4/19/224293.png,https://cdn.sofifa.org/flags/38.png,80,81,Wolverhampton Wanderers,MID
+Mariano,24,5'11,168lbs,Dominican Republic,22,https://cdn.sofifa.org/players/4/19/221639.png,https://cdn.sofifa.org/flags/207.png,80,67,Real Madrid,FWD
+Raúl,28,6'2,179lbs,Brazil,13,https://cdn.sofifa.org/players/4/19/221540.png,https://cdn.sofifa.org/flags/54.png,80,0,SC Braga,DEF
+M. Caldara,24,6'2,176lbs,Italy,19,https://cdn.sofifa.org/players/4/19/220477.png,https://cdn.sofifa.org/flags/27.png,80,75,Milan,DEF
+M. Vecino,26,6'2,179lbs,Uruguay,16,https://cdn.sofifa.org/players/4/19/219985.png,https://cdn.sofifa.org/flags/60.png,80,0,Inter,MID
+T. Bakayoko,23,6'2,187lbs,France,19,https://cdn.sofifa.org/players/4/19/219809.png,https://cdn.sofifa.org/flags/18.png,80,67,Milan,MID
+M. Dahoud,22,5'10,150lbs,Germany,22,https://cdn.sofifa.org/players/4/19/218339.png,https://cdn.sofifa.org/flags/21.png,80,75,Borussia Dortmund,MID
+Rafa,25,5'8,146lbs,Portugal,20,https://cdn.sofifa.org/players/4/19/216547.png,https://cdn.sofifa.org/flags/38.png,80,46,SL Benfica,MID
+K. Baldé,23,5'11,176lbs,Senegal,22,https://cdn.sofifa.org/players/4/19/215785.png,https://cdn.sofifa.org/flags/136.png,80,67,Inter,MID
+G. Rulli,26,6'2,185lbs,Argentina,15,https://cdn.sofifa.org/players/4/19/215316.png,https://cdn.sofifa.org/flags/52.png,80,67,Real Sociedad,GK
+F. Armani,31,6'2,194lbs,Argentina,10,https://cdn.sofifa.org/players/4/19/214584.png,https://cdn.sofifa.org/flags/52.png,80,0,River Plate,GK
+Rony Lopes,22,5'9,150lbs,Portugal,22,https://cdn.sofifa.org/players/4/19/212692.png,https://cdn.sofifa.org/flags/38.png,80,67,AS Monaco,MID
+Santi Mina,22,5'11,170lbs,Spain,22,https://cdn.sofifa.org/players/4/19/212623.png,https://cdn.sofifa.org/flags/45.png,80,67,Valencia FWD,FWD
+K. Demirbay,24,6'0,159lbs,Germany,22,https://cdn.sofifa.org/players/4/19/211748.png,https://cdn.sofifa.org/flags/21.png,80,58,TSG 1899 Hoffenheim,MID
+Gayà,23,5'8,146lbs,Spain,18,https://cdn.sofifa.org/players/4/19/211688.png,https://cdn.sofifa.org/flags/45.png,80,67,Valencia FWD,DEF
+André Gomes,24,6'2,185lbs,Portugal,22,https://cdn.sofifa.org/players/4/19/211575.png,https://cdn.sofifa.org/flags/38.png,80,67,Everton,DEF
+N. Tagliafico,25,5'7,143lbs,Argentina,16,https://cdn.sofifa.org/players/4/19/211256.png,https://cdn.sofifa.org/flags/52.png,80,29,Ajax,DEF
+M. Sanson,23,5'11,161lbs,France,22,https://cdn.sofifa.org/players/4/19/210896.png,https://cdn.sofifa.org/flags/18.png,80,67,Olympique de Marseille,MID
+Pacheco,26,6'1,179lbs,Spain,14,https://cdn.sofifa.org/players/4/19/209960.png,https://cdn.sofifa.org/flags/45.png,80,46,Deportivo Alavés,GK
+E. Can,24,6'0,181lbs,Germany,22,https://cdn.sofifa.org/players/4/19/208333.png,https://cdn.sofifa.org/flags/21.png,80,67,Juventus,MID
+H. Çalhanoğlu,24,5'10,168lbs,Turkey,22,https://cdn.sofifa.org/players/4/19/208128.png,https://cdn.sofifa.org/flags/48.png,80,58,Milan,MID
+M. Ginter,24,6'2,183lbs,Germany,17,https://cdn.sofifa.org/players/4/19/207862.png,https://cdn.sofifa.org/flags/21.png,80,29,Borussia Mönchengladbach,DEF
+M. Keane,25,6'3,181lbs,England,17,https://cdn.sofifa.org/players/4/19/207599.png,https://cdn.sofifa.org/flags/14.png,80,46,Everton,DEF
+L. Paredes,24,5'11,165lbs,Argentina,0,https://cdn.sofifa.org/players/4/19/207439.png,https://cdn.sofifa.org/flags/52.png,80,67,,MID
+T. Stepanenko,28,5'11,168lbs,Ukraine,13,https://cdn.sofifa.org/players/4/19/206413.png,https://cdn.sofifa.org/flags/49.png,80,0,Shakhtar Donetsk,MID
+L. Shaw,22,5'11,165lbs,England,18,https://cdn.sofifa.org/players/4/19/205988.png,https://cdn.sofifa.org/flags/14.png,80,67,Manchester United,DEF
+Z. Feddal,28,6'3,183lbs,Morocco,13,https://cdn.sofifa.org/players/4/19/205705.png,https://cdn.sofifa.org/flags/129.png,80,0,Real Betis,DEF
+S. Haller,24,6'3,201lbs,France,21,https://cdn.sofifa.org/players/4/19/205693.png,https://cdn.sofifa.org/flags/18.png,80,46,Eintracht Frankfurt,FWD
+Bernard,25,5'5,132lbs,Brazil,19,https://cdn.sofifa.org/players/4/19/205525.png,https://cdn.sofifa.org/flags/54.png,80,0,Everton,MID
+T. Inui,30,5'7,139lbs,Japan,15,https://cdn.sofifa.org/players/4/19/205114.png,https://cdn.sofifa.org/flags/163.png,80,0,Real Betis,MID
+Portu,26,5'10,154lbs,Spain,19,https://cdn.sofifa.org/players/4/19/205070.png,https://cdn.sofifa.org/flags/45.png,80,0,Girona FC,MID
+M. Batshuayi,24,6'1,172lbs,Belgium,22,https://cdn.sofifa.org/players/4/19/204529.png,https://cdn.sofifa.org/flags/7.png,80,58,Valencia FWD,FWD
+E. Zahavi,30,6'0,157lbs,Israel,16,https://cdn.sofifa.org/players/4/19/204399.png,https://cdn.sofifa.org/flags/26.png,80,0,Guangzhou R&F; FC,FWD
+T. Vaclík,29,6'2,187lbs,Czech Republic,12,https://cdn.sofifa.org/players/4/19/204120.png,https://cdn.sofifa.org/flags/12.png,80,0,Sevilla FC,GK
+N. Pope,26,6'7,168lbs,England,14,https://cdn.sofifa.org/players/4/19/203841.png,https://cdn.sofifa.org/flags/14.png,80,46,Burnley,GK
+Héctor Bellerín,23,5'10,163lbs,Spain,18,https://cdn.sofifa.org/players/4/19/203747.png,https://cdn.sofifa.org/flags/45.png,80,67,Arsenal,DEF
+P. Kadeřábek,26,6'0,179lbs,Czech Republic,15,https://cdn.sofifa.org/players/4/19/203605.png,https://cdn.sofifa.org/flags/12.png,80,0,TSG 1899 Hoffenheim,DEF
+J. Butland,25,6'5,209lbs,England,15,https://cdn.sofifa.org/players/4/19/203042.png,https://cdn.sofifa.org/flags/14.png,80,67,Stoke City,GK
+J. Vestergaard,25,6'6,216lbs,Denmark,16,https://cdn.sofifa.org/players/4/19/202849.png,https://cdn.sofifa.org/flags/13.png,80,0,Southampton,DEF
+J. Tarkowski,25,6'4,179lbs,England,17,https://cdn.sofifa.org/players/4/19/202695.png,https://cdn.sofifa.org/flags/14.png,80,46,Burnley,DEF
+Deulofeu,24,5'10,161lbs,Spain,20,https://cdn.sofifa.org/players/4/19/202477.png,https://cdn.sofifa.org/flags/45.png,80,29,Watford,FWD
+E. Dier,24,6'2,198lbs,England,18,https://cdn.sofifa.org/players/4/19/202335.png,https://cdn.sofifa.org/flags/14.png,80,58,Tottenham Hotspur,MID
+J. Murillo,26,6'0,172lbs,Colombia,18,https://cdn.sofifa.org/players/4/19/201377.png,https://cdn.sofifa.org/flags/56.png,80,58,Valencia FWD,DEF
+M. Badelj,29,6'1,176lbs,Croatia,12,https://cdn.sofifa.org/players/4/19/201144.png,https://cdn.sofifa.org/flags/10.png,80,0,Lazio,MID
+Ismaily,28,5'10,181lbs,Brazil,12,https://cdn.sofifa.org/players/4/19/201119.png,https://cdn.sofifa.org/flags/54.png,80,0,Shakhtar Donetsk,DEF
+N. Schulz,25,5'11,172lbs,Germany,16,https://cdn.sofifa.org/players/4/19/200536.png,https://cdn.sofifa.org/flags/21.png,80,0,TSG 1899 Hoffenheim,MID
+L. Digne,24,5'10,163lbs,France,18,https://cdn.sofifa.org/players/4/19/200458.png,https://cdn.sofifa.org/flags/18.png,80,58,Everton,DEF
+M. Uth,26,6'1,159lbs,Germany,19,https://cdn.sofifa.org/players/4/19/200318.png,https://cdn.sofifa.org/flags/21.png,80,0,FC Schalke 04,FWD
+Cristian Tello,26,5'10,143lbs,Spain,18,https://cdn.sofifa.org/players/4/19/200315.png,https://cdn.sofifa.org/flags/45.png,80,0,Real Betis,MID
+D. Vida,29,6'0,168lbs,Croatia,12,https://cdn.sofifa.org/players/4/19/199206.png,https://cdn.sofifa.org/flags/10.png,80,0,Beşiktaş JK,DEF
+L. Muriel,27,5'10,174lbs,Colombia,19,https://cdn.sofifa.org/players/4/19/199110.png,https://cdn.sofifa.org/flags/56.png,80,0,Sevilla FC,FWD
+V. Aboubakar,26,6'0,181lbs,Cameroon,20,https://cdn.sofifa.org/players/4/19/199069.png,https://cdn.sofifa.org/flags/103.png,80,29,FC Porto,FWD
+A. Oxlade-Chamberlain,24,5'9,154lbs,England,22,https://cdn.sofifa.org/players/4/19/198784.png,https://cdn.sofifa.org/flags/14.png,80,67,Liverpool,MID
+S. Aurier,25,5'9,168lbs,Ivory Coast,17,https://cdn.sofifa.org/players/4/19/197853.png,https://cdn.sofifa.org/flags/108.png,80,46,Tottenham Hotspur,DEF
+J. Matip,26,6'4,198lbs,Cameroon,16,https://cdn.sofifa.org/players/4/19/197061.png,https://cdn.sofifa.org/flags/103.png,80,29,Liverpool,DEF
+Y. Rakitskyi,28,6'1,183lbs,Ukraine,13,https://cdn.sofifa.org/players/4/19/195861.png,https://cdn.sofifa.org/flags/49.png,80,0,Shakhtar Donetsk,DEF
+Sergi Enrich,28,5'11,170lbs,Spain,17,https://cdn.sofifa.org/players/4/19/194879.png,https://cdn.sofifa.org/flags/45.png,80,0,SD Eibar,FWD
+A. Yarmolenko,28,6'3,183lbs,Ukraine,16,https://cdn.sofifa.org/players/4/19/194794.png,https://cdn.sofifa.org/flags/49.png,80,0,West Ham United,MID
+Hugo Mallo,27,5'9,159lbs,Spain,15,https://cdn.sofifa.org/players/4/19/194229.png,https://cdn.sofifa.org/flags/45.png,80,0,RC Celta,DEF
+André Almeida,27,6'1,176lbs,Portugal,13,https://cdn.sofifa.org/players/4/19/194022.png,https://cdn.sofifa.org/flags/38.png,80,0,SL Benfica,DEF
+D. Didavi,28,5'11,170lbs,Germany,16,https://cdn.sofifa.org/players/4/19/193886.png,https://cdn.sofifa.org/flags/21.png,80,0,VfB Stuttgart,MID
+R. Rodríguez,25,5'11,170lbs,Switzerland,17,https://cdn.sofifa.org/players/4/19/193352.png,https://cdn.sofifa.org/flags/47.png,80,46,Milan,DEF
+R. Pereyra,27,6'0,170lbs,Argentina,17,https://cdn.sofifa.org/players/4/19/193061.png,https://cdn.sofifa.org/flags/52.png,80,0,Watford,MID
+Mario Gaspar,27,6'0,163lbs,Spain,13,https://cdn.sofifa.org/players/4/19/192789.png,https://cdn.sofifa.org/flags/45.png,80,0,Villarreal FWD,DEF
+Maicon,29,6'3,196lbs,Brazil,12,https://cdn.sofifa.org/players/4/19/191687.png,https://cdn.sofifa.org/flags/54.png,80,0,Galatasaray SK,DEF
+D. Blind,28,5'11,159lbs,Netherlands,13,https://cdn.sofifa.org/players/4/19/190815.png,https://cdn.sofifa.org/flags/34.png,80,0,Ajax,DEF
+J. Zoet,27,6'2,194lbs,Netherlands,14,https://cdn.sofifa.org/players/4/19/190778.png,https://cdn.sofifa.org/flags/34.png,80,46,PSV,GK
+A. Ljajić,26,6'0,163lbs,Serbia,19,https://cdn.sofifa.org/players/4/19/190544.png,https://cdn.sofifa.org/flags/51.png,80,0,Beşiktaş JK,MID
+Canales,27,5'11,163lbs,Spain,17,https://cdn.sofifa.org/players/4/19/190286.png,https://cdn.sofifa.org/flags/45.png,80,0,Real Betis,MID
+Iago Falqué,28,5'9,152lbs,Spain,16,https://cdn.sofifa.org/players/4/19/190264.png,https://cdn.sofifa.org/flags/45.png,80,0,Torino,MID
+L. de Jong,27,6'2,190lbs,Netherlands,18,https://cdn.sofifa.org/players/4/19/189805.png,https://cdn.sofifa.org/flags/34.png,80,0,PSV,FWD
